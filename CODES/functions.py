@@ -201,8 +201,6 @@ def scrape_maritime_executive(query):
 
 
 
-
-
 ########################################################
 #### Synonym and derived forms
 #### input: word
@@ -210,6 +208,32 @@ def scrape_maritime_executive(query):
 ########################################################
 
 
+
+
+
+
+
+########################################################
+#### Use one representative word for all synonyms / derived words
+#### input: text, a list of word
+#### output: cleaned text (using the first word in the list for all words in the list)
+# This function requires re library
+########################################################
+import re 
+
+def clean_word(text, group):
+    if len(group) == 1:
+        return text
+    elif len(group) != 1:
+        updated_text = text
+        for i in range(1,len(group)):
+            pattern = r'\b{}\b'.format(re.escape(group[i]))
+            updated_text = re.sub(pattern, group[0], updated_text)
+        return updated_text
+    else:
+        print("The word group is empty")
+        return None
+        
 
 
 
@@ -230,10 +254,8 @@ def scrape_maritime_executive(query):
 
 ########################################################
 #### Information Score functions
-# These functions below requires re library
+# These functions below require re library
 ########################################################
-
-import re
 
 ########################################################
 #### find_imo: Find IMO (7-digit numbers)
