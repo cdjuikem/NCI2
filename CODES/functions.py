@@ -228,7 +228,9 @@ def scrape_maritime_executive(query):
 
 import re
 
+########################################################
 #### find_imo: Find IMO (7-digit numbers)
+
 def find_imo(content):    
     # regular expression for a 7-digit number (exactly 7-digit)
     imo_pattern = r'\b\d{7}\b'
@@ -238,7 +240,9 @@ def find_imo(content):
     
     return imo_list
 
+########################################################
 #### find_mmsi: Find MMSI (9-digit numbers)
+
 def find_mmsi(content):    
     # regular expression for a 9-digit number (exactly 9-digit)
     mmsi_pattern = r'\b\d{9}\b'
@@ -248,12 +252,14 @@ def find_mmsi(content):
     
     return mmsi_list
 
-
+########################################################
 #### find names (company, people, etc)
-# This function requires spaCy
+# These functions require spaCy
+########################################################
 
 import spacy
 
+########################################################
 # people or company's names and nationality
 def find_involved_parties_spacy(text):
     nlp = spacy.load('en_core_web_sm')
@@ -265,6 +271,7 @@ def find_involved_parties_spacy(text):
             names.append(ent.text)
     return names
 
+########################################################
 # country's name / location
 def find_location(text):
     nlp = spacy.load('en_core_web_sm')
@@ -276,5 +283,8 @@ def find_location(text):
             locations.append(ent.text)
     return locations
 
+
+########################################################
+# fishing species
 
 
