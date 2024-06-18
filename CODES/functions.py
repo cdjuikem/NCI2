@@ -167,8 +167,6 @@ def scrape_bing_news(query):
 #### required libraries:
 # import requests
 # from bs4 import BeautifulSoup
-#
-# Note: The dates are in the form of "1 month ago", "3 hours ago"
 ########################################################
 
 def scrape_maritime_executive(query):
@@ -224,7 +222,59 @@ def scrape_maritime_executive(query):
 
 
 ########################################################
-#### Information Score
-#### input: title and content of the article
-#### output: the information score
+#### Information Score functions
+# These functions below requires re library
 ########################################################
+
+import re
+
+#### find_imo: Find IMO (7-digit numbers)
+def find_imo(content):    
+    # regular expression for a 7-digit number (exactly 7-digit)
+    imo_pattern = r'\b\d{7}\b'
+    
+    # find all 7-digit numbers in the content 
+    imo_list = re.findall(imo_pattern, content)
+    
+    return imo_list
+
+#### find_mmsi: Find MMSI (9-digit numbers)
+def find_mmsi(content):    
+    # regular expression for a 9-digit number (exactly 9-digit)
+    mmsi_pattern = r'\b\d{9}\b'
+    
+    # find all 9-digit numbers in the content 
+    mmsi_list = re.findall(mmsi_pattern, content)
+    
+    return mmsi_list
+
+
+#### find names (company, people, etc)
+# This function requires spaCy
+
+import spacy
+
+# people or company's names and nationality
+def find_involved_parties_spacy(text):
+    nlp = spacy.load('en_core_web_sm')
+    doc = nlp(text)
+    names = []
+
+    for ent in doc.ents:
+        if ent.label_ in ['PERSON', 'ORG', 'NORP']: # NORP is about nationality/religious/political group
+            names.append(ent.text)
+    return names
+
+# country's name / location
+def find_location(text):
+    nlp = spacy.load('en_core_web_sm')
+    doc = nlp(text)
+    locations = []
+
+    for ent in doc.ents:
+        if ent.label_ in ['LOC', 'GPE']: # location labels
+            locations.append(ent.text)
+    return locations
+
+
+
