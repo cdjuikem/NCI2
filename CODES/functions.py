@@ -2,8 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 
 ########################################################
-#### CONTENT SCRAP
-#### This function scrap the contents in the url
+#### scrape_content: scraping the contents in the url
 #### input: url
 #### output: content (type: str)
 ####
@@ -45,15 +44,15 @@ def scrape_content(url):
     
     
 ########################################################
-#### GOOGLE NEWS
-#### This function scrap the titles, links, and dates of the first 20 articles from google (news tab) with the given query
+#### scrape_google_news: scraping the titles, links, and dates of the first 20 articles from google (news tab) with the given query
 #### input: query
 #### output: the list of the title and link
 ####
 #### required libraries:
 # import requests
 # from bs4 import BeautifulSoup
-# It only gives info in the form of "1 month ago", "3 hours ago", not YYYY-MM-DD form
+#
+# Note: The dates are in the form of "1 month ago", "3 hours ago"
 ########################################################
 
 def scrape_google_news(query):
@@ -88,8 +87,7 @@ from bs4 import BeautifulSoup
 
 
 ########################################################
-#### YAHOO NEWS 
-#### This function scrap the titles, links, and dates of the first 20 articles from Yahoo (news tab) with the given query
+#### scrape_yahoo_news: scraping the titles, links, and dates of the first 20 articles from Yahoo (news tab) with the given query
 #### input: query
 #### output: the list of the title and link
 ####
@@ -97,8 +95,7 @@ from bs4 import BeautifulSoup
 # import requests
 # from bs4 import BeautifulSoup
 #
-# Note: The dates in Yahoo news is in different form.
-# It only gives info in the form of "1 month ago", "3 hours ago", not YYYY-MM-DD form
+# Note: The dates are in the form of "1 month ago", "3 hours ago"
 ########################################################
 
 def scrape_yahoo_news(query):
@@ -126,8 +123,7 @@ def scrape_yahoo_news(query):
 
 
 ########################################################
-#### BING NEWS
-#### This function scrap the titles, links, and dates of the first 20 articles from Microsoft Bing news with the given query
+#### scrape_bing_news: scraping the titles, links, and dates of the first 20 articles from Microsoft Bing news with the given query
 #### input: query
 #### output: the list of the title and link
 ####
@@ -135,8 +131,7 @@ def scrape_yahoo_news(query):
 # import requests
 # from bs4 import BeautifulSoup
 #
-# Note: The dates in Yahoo news is in different form.
-# It only gives info in the form of "1 month ago", "3 hours ago", not YYYY-MM-DD form like Google
+# Note: The dates are in the form of "1 month ago", "3 hours ago"
 ########################################################
 
 def scrape_bing_news(query):
@@ -165,7 +160,7 @@ def scrape_bing_news(query):
 
 
 ########################################################
-#### This function scrap the titles, links, and dates of the first 20 articles from Microsoft Bing news with the given query
+#### scrape_maritime_executive: scraping the titles, links, and dates of the first 20 articles from maritime executive with the given query
 #### input: query
 #### output: the list of the title and link
 ####
@@ -173,8 +168,7 @@ def scrape_bing_news(query):
 # import requests
 # from bs4 import BeautifulSoup
 #
-# Note: The dates in Yahoo news is in different form.
-# It only gives info in the form of "1 month ago", "3 hours ago", not YYYY-MM-DD form like Google
+# Note: The dates are in the form of "1 month ago", "3 hours ago"
 ########################################################
 
 def scrape_maritime_executive(query):
