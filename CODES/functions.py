@@ -1,3 +1,6 @@
+### When importing all functions from this file, we can use the following line
+# from functions import *
+
 import requests
 from bs4 import BeautifulSoup
 
