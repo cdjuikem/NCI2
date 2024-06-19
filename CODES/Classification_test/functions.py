@@ -144,7 +144,7 @@ def scrape_yahoo_news(query):
 def scrape_bing_news(query):
     # Construct the Yahoo News URL with the query
     url = f"https://www.bing.com/news/search?q={query}"
-    print(url)
+
     # Send a GET request to the URL
     response = requests.get(url)
 
@@ -330,12 +330,15 @@ def find_location(text):
 ########################################################
 # Information score
 def info_score(text):
-    #give weigths to each information:
+    # give weigths to each information:
     # IMO: 2
     # MMSI: 2
     # Involved parties or location: 1
+    # fish
+    # verbs (crime verbs)
     # The score will be out of 10
     weight_vector = [2, 2, 1]
+    
     imo = find_imo(text)
     mmsi = find_mmsi(text)
     parities_loc = find_involved_parties_spacy(text) + find_location(text)
