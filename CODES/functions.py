@@ -312,16 +312,29 @@ def find_mmsi(content):
 import spacy
 
 ########################################################
-# people or company's names and nationality
-def find_involved_parties_spacy(text):
+# people's names
+def find_people(text):
     nlp = spacy.load('en_core_web_sm')
     doc = nlp(text)
     names = []
 
     for ent in doc.ents:
-        if ent.label_ in ['PERSON', 'ORG', 'NORP']: # NORP is about nationality/religious/political group
+        if ent.label_ in ['PERSON']: # NORP is about nationality/religious/political group
             names.append(ent.text)
     return names
+
+########################################################
+# company's names
+def find_company(text):
+    nlp = spacy.load('en_core_web_sm')
+    doc = nlp(text)
+    names = []
+
+    for ent in doc.ents:
+        if ent.label_ in ['ORG']: # NORP is about nationality/religious/political group
+            names.append(ent.text)
+    return names
+
 
 ########################################################
 # country's name / location
@@ -331,7 +344,7 @@ def find_location(text):
     locations = []
 
     for ent in doc.ents:
-        if ent.label_ in ['LOC', 'GPE']: # location labels
+        if ent.label_ in ['LOC', 'GPE', 'NORP']: # location labels
             locations.append(ent.text)
     return locations
 
@@ -340,20 +353,34 @@ def find_location(text):
 # fishing species
 
 
+########################################################
+# GRT
+
 
 ########################################################
 # Information score
-def info_score(text):
+# This function requires numpy
+import numpy as np
+
+########################################################
+# Information score
+def weighted_info_score(text):
     #give weigths to each information:
     # IMO: 2
     # MMSI: 2
     # Involved parties or location: 1
     # The score will be out of 10
-    weight_vector = [2, 2, 1]
-    imo = find_imo(text)
-    mmsi = find_mmsi(text)
-    parities_loc = find_involved_parties_spacy(text) + find_location(text)
-    score = (int(len(imo) != 0)*weight_vector[0] + int(len(mmsi) != 0)*weight_vector[1] +  int(len(parities_loc) != 0)*weight_vector[2])*2
-    
-    return score
+    score_list = [find_imo, find_mmsi, find_people, find_company, find_location]
+    weight_vector = np.array([2, 2, 1, 1, 1])
+    score = []
+    for item in score_list:
+        if len(item(text)) > 0:
+            score.append(1)
+        else:
+            score.append(0)
+    score = np.array(score)
+    weighted_score = score * weight_vector
+    #np.dot(score,weight_vector)
+
+    return weighted_score
 
