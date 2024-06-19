@@ -221,6 +221,7 @@ def scrape_maritime_executive(query):
 ########################################################
 import re 
 
+###### clean_word is with a subroutine of rep_word_text, dealing with one group of words
 def clean_word(text, group):
     if len(group) == 1:
         return text
@@ -233,9 +234,17 @@ def clean_word(text, group):
     else:
         print("The word group is empty")
         return None
-        
 
-
+##### Here word_group_list is the list of word groups.
+def rep_word_text(text, word_group_list):
+    if len(word_group_list) != 0:
+        new_text = text
+        for i in range(len(word_group_list)):
+            new_text = clean_word(new_text, word_group_list[i])
+        return new_text
+    else:
+        print("the word group list is invalid")
+        return None
 
 
 
@@ -316,4 +325,21 @@ def find_location(text):
 ########################################################
 # fishing species
 
+
+
+########################################################
+# Information score
+def info_score(text):
+    #give weigths to each information:
+    # IMO: 2
+    # MMSI: 2
+    # Involved parties or location: 1
+    # The score will be out of 10
+    weight_vector = [2, 2, 1]
+    imo = find_imo(text)
+    mmsi = find_mmsi(text)
+    parities_loc = find_involved_parties_spacy(text) + find_location(text)
+    score = (int(len(imo) != 0)*weight_vector[0] + int(len(mmsi) != 0)*weight_vector[1] +  int(len(parities_loc) != 0)*weight_vector[2])*2
+    
+    return score
 
