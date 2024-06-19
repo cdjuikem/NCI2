@@ -1,0 +1,252 @@
+relevant_articles = [
+##### article 1
+"""
+B.C.’s Supreme Court has upheld almost $96,000 in fishery fines against two men and a company for fishing offences around Haida Gwaii in 2018 and 2019.
+
+The appellants claimed regulations made under the federal Fisheries Act were unlawful and that their sentences should be varied, claiming there had been additional fines.
+
+The Feb. 2 decision from Justice Miriam Maisonville regarded two appeals of fines laid in provincial court in two 2022 provincial court cases.
+
+The first provincial court ruling
+In one decision, Judge David Patterson found that Adam Munro, Silas Levesque and ATM Fishing Ltd. exceeded their chinook salmon quota as set out in the federal Fisheries Act. Patterson said those offences occurred between July 22 and Aug. 9, 2018, near Masset on Haida Gwaii.
+
+Patterson found that Munro, Levesque, and ATM possessed fish caught in contravention of the act or its regulations. Those offences happened between July 22 and Aug. 15, 2018, near Masset or elsewhere in B.C.
+
+The judge ruled that Levesque, as master of the Wind Walker I, failed to comply with a licence condition. That condition required him to submit data forms known as fish slips no later than seven days after landing. Those events took place between July 28, 2018 and Nov. 5, 2019, near Masset, Patterson said in his Jan. 6 decision.
+
+The judge said throughout 2018, Munro was the owner of the Wind Walker I, a vessel licensed to participate in B.C.’s Salmon Area F Salmon Troll Fishery.  Levesque was the skipper. The vessel's licence conditions allowed for the catch and retention of 390 chinook salmon in 2018.
+
+According to the ruling, on July 22, 2018, 357 chinook salmon were offloaded from the Wind Walker I in Prince Rupert. Then, on Aug 8, 2018, 327 chinook were offloaded. That's 294 more fish than allowed.
+
+The second provincial court ruling
+In the second case, Patterson found that the Crown had proven four charges under the act against Munro and 605463 B.C. Ltd.
+
+Michael Andrew Bullock is the sole director and officer of 605463 B.C. Ltd., Patterson said. Munro was the skipper or vessel master of the Winter Wind.
+
+The charges were: exceeding the maximum quota, between July 22, 2018 and Aug. 11, 2018, near Masset; failing to ensure that catch service logs were delivered between April 30, 2019 and July 17, 2019; selling fish caught in contravention of the act; and possessing fish caught in contravention of the act.
+
+On July 22, 2018, Munro and 605463 B.C. Ltd. offloaded 346 chinook salmon caught on the Winter Wind. They were left with a remaining quota of 44, unless another licence holder transferred a share of their total allowable catch to the Winter Wind.
+
+It had been anticipated that a quota transfer to the Winter Wind was going to occur.
+
+However, that didn’t happen and, on Aug. 11, 2018, the vessel was 217 chinook salmon over its limit.
+
+“Therefore, 217 were illegally fished for, possessed and sold,” Patterson said.
+
+Appeals dismissed
+Justice Maisonville dismissed both grounds of appeal.
+
+She said the application of the regulations and any delegation of them was not unlawful.
+
+On the imposition of additional fines, Maisonville said the law allows a sentencing judge discretion in levying additional fines.
+
+“It was found that financial benefits flowed to the appellants as a matter of their negligence and lack of due diligence, and I would not disturb this result,” Maisonville ruled.
+""",
+
+#### article 2
+"""
+A commercial fisherman in Alaska will pay a fine of USD 1 million (EUR 850,000) and spend up to a six months in prison for misreporting his catch.
+
+Kodiak fisherman James Aaron Stevens was sentenced last week for “knowingly submitting false records concerning the locations and regulatory areas where fish were harvested,” according to the U.S. District Attorney’s Office, Alaska District.
+
+The attorney’s office announced last August that Stevens had plead guilty to one count of false labeling, which constituted a Lacey Act violation. The false reporting occurred during 26 fishing trips between 2014 and 2017, when Stevens served as the owner and operator of the F/V Southern Seas and the F/V Alaskan Star.
+
+“Specifically, Stevens knowingly falsified International Pacific Halibut Commission (IPHC) logbooks, daily fishing logbooks, Alaska Department of Fish and Game fish tickets, and landing reports to show that fishing gear had been deployed in areas where the vessels did not fish, and omitted areas in which the fish were actually harvested,” the district attorney’s office said. “In addition to his falsified logbooks, the investigation further revealed that Stevens maintained the accurate fishing information in a separate, personal log.”
+
+Stevens falsely reported the harvest of some 903,208 pounds of halibut and sablefish, which added up to around USD 4.5 million (EUR 3.83 million) in ex-vessel value and USD 13.5 million (EUR 11.5 million) in market value.
+
+
+"Stevens sold the falsely labeled fish caught during these trips, which were, or were intended to be, transported in interstate and foreign commerce,” the district attorney’s office said.
+
+Kodiak radio station KMXT reported that Stevens’ legal team had requested intermittent home confinement so Stevens could continue fishing, but the request was denied.
+
+“Many family members, friends, and fellow fishermen wrote letters in support of Stevens, pointing to his role as a father and husband with a strong and honest work ethic. Some letters asked for the fine to be reduced. A letter written by Janiese Stevens, James’s wife, pointed to instability and inequities in the halibut and sablefish IFQ program that put economic strains on fishermen,” KMXT reported.
+
+An investigation by NOAA’s Office of Law Enforcement led to the charges against Stevens, who will also serve community service and make a public announcement regarding the false reporting.
+""",
+
+#### article 3
+"""
+SEOUL, Jan. 11 (Yonhap) -- A Chinese fishing boat has been seized for allegedly underreporting its fish catch in violation of Seoul's fishing regulations, the oceans ministry said Tuesday.
+
+The ministry's fisheries management service seized the 106-ton vessel in waters off the southwestern county of Shinan at around 6 p.m. on Monday, as its crew members were suspected of having underreported the fish catch on a daily log to catch more from South Korea's exclusive economic zone in the Yellow Sea, according to the Ministry of Oceans and Fisheries.
+
+An additional probe is now under way, and any violations will lead to fines or other penalties, it added.
+
+"There have been increasing cases of Chinese fishing boats trying to evade our on-board investigations, citing the COVID-19 pandemic," ministry official Yang Jin-moon said.
+
+"We will toughen the crackdown and seizure operations while implementing thorough antivirus measures," it added.
+""",
+
+#### article 4
+"""
+Environmental law group ClientEarth and the Low Impact Fishers of Europe (LIFE) have joined forces to file legal action against the Dutch food and consumer product safety authority (NVWA) over claims it has failed to police misreporting of fish catches and overfishing, in direct violation of the laws of the European Union.
+
+The move comes one year after the organizations launched a legal challenge against the government of The Netherlands for routinely failing to check how much fish is being brought ashore from refrigerated cargo ships, more commonly known as reefers, and instead relying on estimated data declared by fishers in their logbooks.
+
+A formal request was sent to NVWA in June 2022, demanding that the agency improve its monitoring system, as required by E.U. fisheries law, to safeguard fish stocks and the livelihoods of small-scale, low-impact fishers.
+
+The challenge was prompted by an investigation by Dutch newspaper Groene Amsterdammer, which highlighted issues with the Dutch fisheries control system. Its investigation revealed a severe lack of inspectors to adequately monitor the 400 million kilograms of frozen herring, mackerel, and blue whiting landed into the Netherlands each year, and the delegation to a private company with no power of authority to check landed boxes of frozen fish on behalf of the port authorities.
+
+Under the rules of the E.U.’s common fisheries policy (CFP), fishing companies must weigh frozen pelagic fish products before landing. The NVWA is tasked with properly checking and weighing a legally prescribed sample at the port to verify against declared weights, and claims to inspect at least 10 percent of the country’s catch.
+
+In 2020, the European Commission finalized an investigation into the issue that concluded that millions of kilograms of illegal fish may have passed through Dutch ports in recent years, and informed the country’s government it was out of compliance with European rules for fisheries controls. After what it described as an inadequate response from the Dutch government, the E.C. set its infringement procedure in motion in February 2022, calling on the Netherlands to ensure compliance with rules on weighing, traceability, and catch registration. If the reply is not satisfactory, the E.C. may decide to refer the case to the Court of Justice of the European Union.
+
+
+Simultaneously, LIFE and ClientEarth requested the NVWA swiftly improve its inspection process in 2021, but their request was rejected. In a press release, the organizations said that rejection prompted the organizations to take another action on 29 June, asking for concrete proof that fraud is not happening. If convincing evidence to the contrary is not provided in the near future, they believe they will “be left with no choice but to go to court.”
+
+“As the gateway for a large part of E.U. fish onto the market, the Netherlands has a crucial guardian role to play in preventing overfishing,” ClientEarth fisheries lawyer Nils Courcy said. “It is abnormal and alarming that Dutch authorities have rejected a request to properly check what’s being taken from the sea and enforce proper scrutiny of their vessels and ports. Their refusal to step up to the plate sends utterly the wrong signal – it seems they are saying that illegal fishing and overfishing can happen under their watch. We’re now stepping up action and asking the Dutch authorities again to provide concrete proof that fraud is not happening. If we don’t see convincing evidence to the contrary, we’ll be left with no choice but to go to court.”
+
+In particular, the logbook records of the super-trawler Margiris, owned by Dutch company Parlevliet and Van der Plas, have been requested. The activities of this vessel, which is the second largest trawler in the world, can process 250 metric tons (MT) of fish per day and carry 6,000 MT, are already under investigation. This follows the mass spillage of more than 100,000 blue whiting in the Bay of Biscay earlier this year after the trawler’s net ruptured.
+
+LIFE Executive Secretary Brian O’Riordan said The Netherlands’ factory vessels are “potentially underreporting thousands of tons of fish each trip.”
+
+“If that’s true, this is depleting the ocean of its planet-stabilising ecosystems and unfairly depriving low-impact fishers and coastal communities from their source of livelihood,” he said. “It is also undermining the whole E.U. marine management system and the scientific assessments that form the basis of E.U. fishing quotas.” 
+""",
+
+#### article 5
+"""
+Five Maine fishermen and one fisherman from New Hampshire took plea deals Monday, ending the trial for the multi-year scheme of selling unreported herring and forging fishing records.
+
+The fishermen included Glenn Robbins of Eliot, Maine; Neil Herrick of Rockland, Maine; Stephen Little of Warren, Maine; Ethan Chase of Portsmouth, N.H.; and Jason Parent of Owls Head, Maine, were indicted in January 2022 on 35 counts of conspiracy, fraud, and falsifying fishing records. Western Seas Inc. owned the fishing vessel Western Sea, which was used to catch the fish.
+
+Robbins owns the Western Seas and pleads guilty to conspiracy to submit false information to the U.S. Secretary of Commerce about his Atlantic herring catch and sale. According to Bangor Daily News, the defendants could receive sentences of up to a year in prison, fines of up to $100,000, and one year of supervised release.
+
+The vessel engaged in more than 80 fishing trips for herring between June 2016 and September 2019, with a catch that was unreported to NOAA Fisheries. The indictment alleged that the crew had sold more than 2.6 million pounds of herring to five separate fish dealers and three lobster captains. Three of the dealers paid more than $460,000 for the unreported fish.
+
+The U.S. Attorney’s Office paperwork states that the Western Sea underreported the fish caught while the boat was fishing. The crew then sold to fish buyers who underreported how much they had received. The crew was then paid in cash for fish caught above what was legally caught.
+
+NOAA’s Office of Law Enforcement and the Maine Marine Patrol investigated this case.
+""",
+
+#### article 6
+"""
+A boat captain from Sambro, N.S., with a history of fishery convictions has been fined $60,000 and banned from fishing for six months for five violations that included a secret, middle-of-the-night offload of halibut.
+
+The case involved misreporting of halibut, hake and cod catch from trips on board the fishing boat Ivy Lew between May 2019 and June 2020.
+
+Casey Henneberry, 40, and ALS Fisheries and Law Fisheries were found guilty last October by Halifax provincial court Judge Elizabeth Buckle.
+
+The sentence was handed down in court last month and posted this week.
+
+"Mr. Henneberry's offending conduct is that he inaccurately logged and hailed weight of groundfish on four trips over approximately one year and on one of those trips, he illegally off-loaded $40,000 worth of halibut, intending to sell it," Buckle said in her written sentence.
+
+On that trip, DFO officers were observing the Ivy Lew and intercepted the illegal off-load in Sambro. During the attempted arrests of those involved, Henneberry fled and was arrested later, the judge noted in sentencing.
+
+During this period the groundfish licence was held first by Law Fisheries and then ALS Fisheries. The companies were fined $55,000 and $10,000 respectively for failing to ensure licence conditions were complied with.
+
+ALS Fisheries owns the Ivy Lew, which has been held for the past three years by the Department of Fisheries and Oceans, likely as security on any fine.
+
+The company has continued to pay on the $1-million mortgage on the vessel.
+
+The Captain's story
+
+Henneberry is a lifelong fisherman with hundreds of trips as a captain.
+
+He does not own any fishing business, but earns $150,000 a year as a captain — money used to pay child support and for therapy and assistance for a child with developmental challenges.
+
+Henneberry has three prior convictions for failing to observe licence conditions, including failing to hail out (or provide notification a trip is underway), possession of undersized halibut and several other instances of misreporting.
+
+The crown wanted a fine of $140,000 and a two-year licence suspension for Henneberry.
+
+Buckle said the fact that he is financially responsible for his family and fully engaged in his child's life is a mitigating factor.
+
+He has five years to pay the fine.
+
+The Sambro family connection
+
+In her decision, Buckle said in 2019, ALS had four directors who were all related to Henneberry.
+
+Each of its four directors have prior convictions for Fisheries Act offences. Two are also directors of Law Fisheries.
+
+The Crown did not allege prior record for either company.
+
+Buckle said both companies' "annual quota for groundfish is a significant share of the fleet allowance and has substantial value."
+
+The Crown argued their corporate conduct appeared intentional and at the very least amounted to gross negligence.
+
+It sought a fine of $30,000 for ALS and $180,000 for Law.
+
+Buckle acknowledged the lack of diligence by the companies, which failed "to do anything to oversee their licences in circumstances where they should have been extra vigilant.
+
+"However, I am not persuaded that they were involved in a deliberate effort to thwart the regulations, that they had intent or knowledge of the offences or were purposefully indifferent to their obligations."
+
+She also addressed the crown submission that all the ALS directors were previously the directors of a defunct company that was convicted of fisheries offences in 2006, sentenced to pay fines of over $600,000 but discontinued operations and never paid its fines.
+
+"I accept the Crown's submission that this is relevant to the need for specific deterrence and speaks to the effectiveness of corporate fines alone as deterrents. However, the fact that DFO holds the Ivy Lew as security makes it likely that any fine against ALS will be paid."
+""",
+
+### article 7
+"""
+Georgetown court dealt with several cases Thursday involving the underreporting of catches in P.E.I.'s snow crab fishery.
+
+Four fishermen who pleaded guilty to violating section 43.4(1) of the federal Fisheries Act were fined: Jason Ahearn, James Gavin, Earl MacRae and Jeffery MacLeod. Charges were dropped against Casey Gavin.
+
+Others among the 13 people originally charged were fined earlier.
+
+In most cases, the fines amounted to $1,500 per offence.
+
+Judge Nancy Orr expressed frustration at the low fines set out in the sentencing guidelines for this type of charge, saying the fines aren't much of a disincentive if someone ends up being able to sell 20,000 pounds of snow crab that didn't get reported as counting toward their quota. She made the remarks in relation to the sentencing of James Gavin. Court heard Gavin had an extensive record, with convictions dating back to 1995. Gavin was fined $2,500.
+
+Operation Gannet
+
+The cases in Georgetown court Thursday followed a Department of Fisheries and Oceans investigation in Souris dating back to 2019 and 2020. It was called Operation Gannet.
+
+Both fishers and dockside monitors ended up being charged.
+
+Court was told that fisheries officers watched as snow crab catches were landed and the monitors recorded the amounts.
+
+Circumstances were similar in all their cases: estimates by fishers, and records from monitors, showed catches were much lower than the landings observed by fishery officers — in some cases, by 20,000 pounds.
+
+A trial also began Thursday for fisherman Leo Dorgan, who has pleaded not guilty to failing to report his catches accurately. His is the final case connected to Operation Gannet.
+
+One dockside monitor who earlier pleaded guilty to 24 counts was involved in some of Dorgan's landings, court heard.
+
+The two-day trial is expected to wrap up Friday.
+
+'A conservation matter'
+
+Carter Hutt, chair of the P.E.I. Snow Crab Association, declined CBC's request for an interview on the charges.
+
+"It's a conservation matter," Orr said during a May court hearing connected to Operation Gannet.
+
+"Everybody is aware snow crab is a lucrative fishery in this jurisdiction … Captains get the big bucks, they also get the big responsibility."
+
+Defence lawyer Clifford Hood argued at the same hearing that his clients failed to fill out the proper paperwork, but did not exceed their overall share of snow crab quota.
+
+Hood said it's not unusual for crab crews to shift quota from boat to boat.
+""",
+
+#### article 8
+"""
+Five fishermen who were charged with being part of a multi-year scheme of falsifying herring catch and selling unreported herring pleaded guilty soon after a federal trial began. 
+
+The federal trial began on 7 March and was expected to last for nine days, with Glenn Robbins of Eliot, Maine; Neil Herrick of Rockland, Maine; Stephen Little of Warren, Maine; Ethan Chase of Portsmouth, New Hampshire; Jason Parent of Owls Head, Maine; and Western Sea Inc. all charged with conspiracy, mail fraud, and obstruction of justice as part of their efforts to falsify their herring catch, the Penobscot Bay Pilot reported. Robbins, in particular, owned the F/V Western Sea – a Maine herring seiner.
+
+According to the Courier-Gazette, from June 2016 through September 2019, the Western Sea and its crew underreported the number of herring caught and sold fish to buyers who also underreported how much fish they had received. The fishermen were then paid cash for the extra fish that they caught. Herring regulations in the state of Maine require herring fishers submit an electronic report of total catch before landing. 
+
+Now, the Portland Press Herald reported that the five fishermen have all pleaded guilty to lesser offenses in a plea deal with federal prosecutors. With the deal, 59 counts against the fishermen were dismissed for lesser charges.
+
+
+Robbins pleaded guilty to submitting false information to the U.S. Secretary of Commerce – which overseas NOAA Fisheries – on the catch and sale of herring, as well as falsifying information to the secretary of the treasury. 
+
+Chase, Herrick, Little, and Parent also pleaded guilty to submitting false information and failing to pay income taxes.
+
+“This type of unscrupulous and unlawful fishing alleged in the indictment returned by the grand jury directly affects the economic benefit of law-abiding fishermen and fishing communities,” NOAA Office of Law Enforcement Director James Landon said in a release. “We will continue to help bring to justice those who are proven to have violated U.S. fishing laws and regulations to help ensure the sustainability of our living marine resources while also maximizing economic benefit.”
+
+According to the Press Herald, the plea agreements carry a maximum sentence of a year in prison, a fine of up to USD 100,000 (EUR 91,800), and up to one year of supervised release – with the possibility that none of the defendants see jail time.
+"""
+]
+
+relevant_urls = [
+    'https://www.vancouverisawesome.com/highlights/bc-judge-upholds-96k-in-fishery-fines-8219088',
+    'https://www.seafoodsource.com/news/business-finance/alaska-fishermen-given-usd-1million-fine-jail-time-for-misreporting-catch',
+    'https://en.yna.co.kr/view/AEN20220111005800320',
+    'https://www.seafoodsource.com/news/supply-trade/the-netherlands-accused-of-failing-to-report-accurate-catch-totals/',
+    'https://www.nationalfisherman.com/northeast/maine-fishermen-take-plea-deal-for-herring-fraud',
+    'https://ca.news.yahoo.com/n-boat-captain-2-companies-162344207.html',
+    'https://ca.news.yahoo.com/p-e-snow-crab-fishers-220424185.html',
+    'https://www.seafoodsource.com/news/supply-trade/five-maine-fishermen-plead-guilty-to-falsifying-herring-catch'
+]
+
+print("there are", len(relevant_articles), "articles in relevant_articles.")

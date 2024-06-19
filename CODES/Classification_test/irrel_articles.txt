@@ -1,0 +1,237 @@
+irrelevant_articles = [
+##### article 1
+"""
+The former director of a major Australian fishing company has faced court in Sydney after being charged over Australia's biggest cocaine haul.
+
+Late on Wednesday, the Australian Federal Police announced it had arrested 15 men and seized 1.1 tonnes of cocaine worth an estimated $360 million.
+
+The syndicate was allegedly using a fishing trawler to meet a "mother ship" from South America to bring the cocaine into Australia.
+
+Joseph Pirrello, 63, was arrested in Sydney on Christmas Day.
+
+Pirello was formerly a managing director of Seafish Tasmania when the company brought the controversial super trawler Abel Tasman (later named Magiris) to Australia in 2012.
+
+He faced court on December 27, was refused bail and his next court date is March 29.
+
+Fellow Tasmanian James Colin Collins, 63, was arrested in Rokeby, a suburb of Hobart, on December 27 and extradited to Sydney the next day.
+
+Collins is a director of fishing company Lorjona Pty Ltd, which has an office in Hobart.
+
+He faced court in Sydney on December 29, was refused bail and will appear in court again on January 11.
+
+Police had been monitoring the drug ring for three years.
+""",
+
+##### article 2
+"""
+Twenty-two crewmembers are currently being held in the Maldives awaiting repatriation to Thailand, following the detention of the Thai-owned trawlers CHOTPATTANA 51 and CHOTPATTANA 55 by authorities in the Maldives.
+
+The vessels were part of a group of Thai-owned, Djibouti-flagged trawlers labelled the ‘Somali Seven’ by New York Times investigative reporter, Ian Urbina, and were investigated for operating illegally in Somali waters from March to May 2017. The CHOTPATTANA 55, CHOTCHAINAVEE 35, CHOTPATTNA 51, CHAINAVEE 54, CHAINAVEE 55, SUPPHERMNAVEE 21 and CHAICHANACHOKE 8 were all reflagged from Thailand to Djibouti during 2017, most likely in response to stronger regulations and controls put in place by Thai authorities in respect to their flagged fishing vessels.
+
+The fleet arrived in the Indian Ocean in January 2017 and operated close to the Puntland coastline with vessel and track analysis indicating they were engaged in trawl fisheries. Under Somali law, trawling is prohibited within 24 nautical miles of the coastline, while the Somali and Puntland fisheries laws also ban the use of trawl gear.
+
+After six weeks of operations in the region the fishing vessels were joined by the Honduran flagged WISDOM SEA REEFER, a refrigerated cargo vessel that is known to have the capability to conduct at sea transhipment. A few days after the WISDOM SEA REEFER arrived in the area, four of the fishing vessels, CHAINAVEE 55, CHAINAVEE 54, SUPPHERMNAVEE 21 and CHAICHANACHOKE 8 went “dark” so their positions were no longer transmitted by their AIS units, a known strategy when conducting transhipment that is considered unauthorised or controversial.
+
+The WISDOM SEA REEFER has been linked to human trafficking through its operational association with the BLISSFUL REEFER, which was exposed in the 2015 Associated Press coverage of labour abuses in the fisheries sector. In December 2017, the WISDOM SEA REEFER was renamed RENOWN REEFER and reflagged to the landlocked, ‘flag of convenience’ country Bolivia, behaviour often associated with vessels looking to avoid sanctions and oversight.
+
+Concern for the welfare of the largely Thai and Cambodian crew of the seven trawlers operating in Somali waters led to intervention by the Thai authorities, and apparent de-flagging by flag State Djibouti.
+
+By May 2017, the seven trawlers had largely dispersed; four of the vessels were identified in the port of Suza, Iran. The CHOTCHAINAVEE 35 returned to Samut Sakhon, Thailand, on 6 May 2017 where it was subsequently detained and inspected, due to concern that the vessels were in violation of the national fisheries laws of the Federal Government of Somalia. Charges have now been made against several Thai individuals linked to the vessel through the direct and beneficial ownership companies.
+
+January 2018 saw the detention of a further two of the ‘Somali Seven’ by authorities in the Maldives. The CHOTPATTANA 51 and CHOTPATTANA 55, both thought to be stateless, had a total of 400 tons of fish and 22 Thai nationals on board.Wanted by Thai authorities, and monitored by INTERPOL, the vessels were linked through ownership and crew to other vessels from the Somali Seven fleet. Some members of the original CHOTPATTANA 55 crew had been interviewed by Thai officials on the CHOTCHAINAVEE 35 and reported that they had changed vessels to escape the living and working conditions they had experienced and to return home to Thailand.
+
+Per Erik Bergh of Stop Illegal Fishing commented, “It is very concerning to see that the strengthening of policy and enforcement in one region prompts operators, who are determined to violate human rights and fishing regulations, to seek out regions and countries where there is less control. Foreign fishing vessels continue to take advantage of the situation in Somalia, and as an international community, we must make every effort to stop this from happening.”
+
+FISH-i Africa continues to monitor the activity of the remaining ‘Somali Seven’ vessels and calls for support from all port States in ensuring that any labour abuses or human trafficking is identified and the crew are fully supported. Nicholas Ntheketha, Chair of FISH-i stated, “In the Western Indian Ocean we are very concerned to see the deliberate and illegal targeting of our fisheries by operators who clearly make no effort to respect our rules, regulations or laws. The use of trawl gear so close to the Somali coastline may have devastating impacts on the environment and also on the Somali people.”
+""",
+
+#### article 3
+"""
+Jakarta (Indonesia), 16 February 2024 – Late night in early December, a fishing vessel engaged in illegal activities was intercepted off the coast of Rembang, Central Java, Indonesia, by the country’s Ministry of Marine Affairs and Fisheries (KKP). The KKP patrol boat that detected the vessel used nightlights and satellite imagery data provided by Skylight, a maritime intelligence platform.
+
+The operation was the result of close cooperation efforts between the KKP, the United Nations Office on Drugs and Crime (UNODC), and Skylight. Since 2020, the three entities have been working together to enhance the capacity and capability of the KKP in maritime domain awareness (MDA) – the understanding of anything associated with the maritime domain that could impact security – and law enforcement.
+
+“This operation is just one of many examples that demonstrate the effectiveness and impact of the partnership between the KKP and UNODC in improving maritime transparency and protecting the ocean from crimes in the fisheries sector,” said Fatimana Agustinanto, Programme Officer at UNODC. “It also shows the commitment and determination of the KKP to enforce the law and safeguard Indonesia’s marine resources.”
+
+Skylight offers a product that combines artificial intelligence and machine learning algorithms to identify suspicious vessel behaviour and alert authorities. UNODC, through its Global Maritime Crime Programme, facilitates Skylight’s platform and services to the KKP at no cost, as well as communication and data sharing between Skylight and the KKP. UNODC and Skylight also consistently provide MDA training to KKP analysts to ensure the effective use of these MDA tools.
+
+The Skylight’s maritime intelligence platform maps out the positions of vessels around Indonesia, aiding to identify and intercept those involved in illegal activities.
+The Skylight’s maritime intelligence platform maps out the positions of vessels around Indonesia, aiding to identify and intercept those involved in illegal activities.
+“Fisheries crime is no longer limited to only illegal, unreported and unregulated fishing, but the concept has expanded to cover a much broader spectrum of associated crimes taking place on fishing vessels or related to fisheries operations, including human trafficking, forced labour, drug trafficking, illegal transshipment of fuel, arms and other goods, as well as money laundering and other custom-related crimes,” said Erik van der Veen, UNODC Country Manager for Indonesia. “For this reason, fisheries crime continues to pose a serious threat to national and regional maritime security.”
+
+Indonesia has been leading efforts to combat crimes in the fisheries sector since its 2016 initiative to establish regional cooperation to counter such crimes. The country revealed in its 2016 initiative brief to the United Nations that all of the one thousand fishing vessels caught fishing illegally in Indonesia had also violated other laws and regulations, including forgery of vessels documents, deactivation of vessel transmitters, and illegal transshipment, among others.
+
+To combat the issue, the KKP has been conducting regular patrols and operations to detect and deter illegal activities related to fisheries crime in its waters, with the support of UNODC and its partner Skylight. These efforts are funded by the U.S. Government, as part of its support to UNODC and its efforts to combat transnational organized crime in the maritime domain.
+
+The KKP and UNODC will continue to work together to strengthen Indonesia’s capacity to fight against fisheries crime and other maritime crimes in the region.
+""",
+
+####article 4
+"""
+A new study published today in Frontiers in Marine Science used the data gathered by the Sea Around Us project in a unique effort to reconstruct the fish catch at global scale, to reveal that in the past 60+ years, the practice of towing giant fishing nets along the sea floor has caused the extraction of 25 million tonnes of fish that live 400 metres or more below sea level, leading to the collapse of many fish populations in a “boom and bust” pattern of exploitation.
+
+The new estimates suggest that 42 per cent more fish have been caught by countries than they reported to the Food and Agriculture Organization (FAO) of the United Nations. “Our study shows that there is systematic underreporting of the real catch. This means that fisheries managers are making decisions based on incorrect data, which has dramatic consequences for marine ecosystems,” said Lissette Victorero, lead author of the paper and a PhD student at the National Oceanography Centre in the United Kingdom.
+
+
+Orange roughy © Claire Nouvian / BLOOM
+
+The study, which was published this week in Frontiers in Marine Science, examines the historical catch of 72 deep-sea fish species taken by bottom trawlers around the world, many of which are exploited to unsustainable levels and several of which are no longer commercially viable.
+
+For example, Roundnose grenadier estimated catches for the North Atlantic were greater than 60,000 tonnes in 2001, but the stock was overfished so fast that a moratorium had to be imposed in 2006. “One of the reasons behind this collapse is the fact that trawls are not selective: they catch everything and anything, which means that young grenadiers that have not yet reached full reproductive development are caught along with adult grenadiers, decreasing the ability of the population to recover,” said Deng Palomares, co-author of the study and the Sea Around Us Project Manager at the University of British Columbia.
+
+Prof. Les Watling, from the University of Hawaii in Mānoa, and an author of the study explained that most of the fisheries they analyzed followed a typical “boom and bust” cycle, lasting for less than a decade or two, because deep-sea fish generally have low fecundity, grow very slowly and are highly vulnerable to overexploitation. Deepwater fish also often live around seamounts and ridges that are often left bare of life when fished by deep-sea bottom trawls.
+
+Bottom trawling of deep fish depletes the stocks but does not generate much in the way of marketable fish. Immature individuals are thrown overboard because they generally don’t meet minimum size requirements, while non-targeted species caught as bycatch are also returned dead to the sea.
+
+The new estimates presented by Victorero and her colleagues suggest that six million tonnes of fish were discarded over the study period while deep-sea fisheries only contributed 0.5 per cent of total fisheries landings. “This means that globally their economic importance is trivial,” the paper states.
+
+The need to keep the business going despite its financial unviability drives fleets to continuously look for public subsidies and new species to fish, particularly once they have fished out a stock or are subjected to new regulations. “So what we are seeing is a cycle in which trawlers start targeting fish that they were already dragging up as bycatch. They create new markets for them until they also exhaust that stock with regulations lagging behind,” the lead author explained.
+
+The impact of trawling goes beyond the capture of fish populations. As they are dragged on the seabed, trawls remove sponges, corals, sea stars, sea cucumbers, and anemones, all of which play important roles as food source or habitat for fish. They destroy seamount communities and other fish homes, turning former thriving habitats into large cleared areas.
+
+The massive under-reporting of catch “means that much more biomass of fish and habitat-forming species have been removed from the deep sea than we thought. This has altered the ecosystem in ways that we have yet to understand,” Palomares said.
+
+Claire Nouvian, co-author of the paper and founder of the marine conservation NGO BLOOM added that these results would have to be taken into consideration by politicians when setting the total allowable catch (TAC) and quotas for deep-sea species in the European Union in the winter 2018. “The new EU deep-sea fishing regulation that we fought so hard for and that establishes a ban on deep-sea bottom trawling below 800 meters came into force in January 2017, but because deep-sea quotas are decided every two years, 2018 is the first time that the TAC will be set according to the new rules”. There will be pressure on decision makers to ensure the quotas are set against fundamental principles of both the Common Fisheries Policy and the new deep-sea fishing Regulation (n°2016/2336), which clearly impose “the long-term conservation of deep-sea fish stocks”, the application of the precautionary approach to fisheries management and the restoration of harvested populations “above levels which can produce the maximum sustainable yield.”
+""",
+
+#### article 5
+"""
+Illegal, unreported, and unregulated (IUU) (1) fishing is global in nature, but more widespread in certain regions (2–3). This implies that IUU fishing is an important negative driver that needs to be tackled by both the global community and individual countries if we wish to secure sustainable and inclusive benefits from renewable marine resources (4). In the absence of truly effective national, regional, and international institutions, policies, and actions, and in the presence of international noncooperation, IUU fishing is undermining the ability of coastal countries to achieve the Sustainable Development Goals of the United Nations that the world has agreed upon (5). IUU fishing has the potential to exacerbate the detrimental effects (6) and losses that global illicit trade in marine catch has on individuals, societies, and governments, as well as nature.
+The Global Agenda Council of the World Economic Forum defines illicit trade as trade that “involves money, goods or value gained from illegal and generally unethical activity. It encompasses a wide variety of illegal trading activities, including human trafficking, environmental crime, illegal trade in natural resources, various types of intellectual property infringements, trade in certain substances that cause health or safety risks, smuggling of excisable goods and trade in illegal drugs, as well as a variety of illicit financial flows” (7). For example, illicit trade in the arts involves people stealing, selling, forging, and trading artwork illegally.
+We would like to stress that not all fisheries catches that are unreported can be assumed to be illegal. In many cases, small-scale, artisanal catches are simply not reported because there is no official or legal mandate to record and hence report such catches, or even if there notionally is such a requirement, no data collection system or resources are in place to record and report all artisanal catches in many coastal communities around the world (8–9).
+Daniels et al. (3) identify two major potential channels through which illicit trade in fish is enabled. The first practice uses at-sea transshipments, which involves offloading catches from multiple fishing boats onto large freezer and processing ships at sea. This makes proper and transparent accounting of the origin and legality of catches very difficult or even impossible to achieve. For example, transshipment activities account for about 16% of fish exported from West African waters, and about 35 transshipment vessels were seen in West African waters in 2013 (3). Most of these were likely operating under flags of convenience (9), making accountability and transparency even more challenging. The second practice that enables illicit trade in seafood relates to how fish is transported for exports (3). It is estimated that about 84% of fish exported out of West Africa are transported in large refrigerated containers that are generally subjected to far less stringent reporting and inspection requirements (3). A third mechanism for illicit trade, in addition to the two channels mentioned above, is transport of illegally caught seafood into nearby local and regional markets to satisfy domestic demand in fisheries that are export-dominated. These three pathways are direct enablers of “laundering” illegal (10) as well as unreported or underreported catches into illicit trade. It is worth noting that transshipment is also a major enabler of labor abuses and modern slavery at sea (5, 11).
+Many species of fish (collectively referring to exploited finfish and aquatic invertebrates), including both demersal and pelagic species (12–13), are targeted by both foreign and domestic fishing vessels in the Exclusive Economic Zones (EEZ) of sovereign countries, sometimes illegally. Such catches are often processed aboard large foreign industrial transshipment vessels and directly shipped overseas without unloading and processing in host countries, thereby depriving local economies of revenue, income, jobs, and economic impacts (14). The global activities of many industrial fishing fleets, including so-called IUU vessels, as well as the prevalence of transshipment vessels to circumvent landing and processing in host countries have been considered analogous to international organized crime (15). Thus, by not landing, reporting, and processing fish in the host country in whose waters the fish were caught, before exporting them, substantial economic and food and nutritional security losses are incurred by the communities and countries whose waters are being exploited (16).
+Here, we estimate the potential economic costs of likely illicit trade in marine fish catch of the world by focusing on the potential losses to the legitimate trade system and associated economy due to such illicit trade, in terms of catches and gross revenues. In addition, and to provide a broader picture of the economic effects of illicit trade in marine fish catch, we compute the potential economic impacts, household income impacts, and tax revenue losses that result from such illicit activities.
+RESULTS
+Catch and fisheries revenue losses
+We find that between 7.7 and 14.0 million metric tons of unreported fish catches are potentially traded illicitly each year (Table 1). We provide in table S1 the range of catch losses for each of the 143 countries included in our study. These numbers show that a substantial amount of seafood is likely illegally and illicitly taken out of the legitimate food supply system of many countries, affecting the food security and livelihoods of millions. These levels of catch volumes being traded illicitly suggest that gross revenues of between US$8.9 and US$17.2 billion per year are being redirected out of the legitimate market through illicit trade (Table 1). Table S1 presents the range of revenue losses for each of the 143 countries included in our study.
+""",
+
+#### article 6
+"""
+Today, the Environmental Justice Foundation commends the European Commission for approving new rules that require stricter controls for landings by EU fishing vessels, providing new tools to prevent significant misreporting of unsorted catches when landing in selected ports, including those in third countries.
+
+It is welcome that the new rules require advanced and stricter control tools, such as CCTV to monitor landings, and set minimum benchmarks for the rates of inspection on trans-shipments. If properly implemented, this can increase transparency and accuracy in reporting by EU fleets that catch a large number of species, including those that have been overfished, such as yellowfin tuna in the Indian Ocean.
+
+Sean Parramore, Senior EU Advocacy Officer at the Environmental Justice Foundation, said: "Stricter control measures on landings by EU vessels that have more leeway to misreport their catches are critical to prevent hidden overfishing. In the long run, everyone loses if we open the door to fish fraud. Fish stocks will collapse and the EU's credibility in its efforts to promote sustainable fisheries on the world stage will be severely undermined. These new rules can help prevent that.“
+
+A first list of ports is to be adopted by July 2024, following input from EU Member States. Sean Parramore added: “When selecting ports, it is crucial that there is sufficient evidence that the conditions approved today are actually in place. This will be key for the EU to continue leading by example in fighting unreported fishing globally.”
+
+ENDS
+
+Notes to editors
+
+EJF works internationally to inform policy and drive systemic, durable reforms to protect our environment and defend human rights. We investigate and expose abuses and support environmental defenders, Indigenous peoples, communities, and independent journalists on the frontlines of environmental injustice. Our campaigns aim to secure peaceful, equitable, and sustainable futures.
+
+Our investigators, researchers, filmmakers, and campaigners work with grassroots partners and environmental defenders across the globe. Our work to secure environmental justice aims to protect our global climate, ocean, forests, and wildlife and defend basic human rights.
+
+For more information or to speak to one of our expert staff, please email media@ejfoundation.org.
+""",
+
+### article 7
+"""
+Each day in fishing communities around the world, not every fish is counted. This happens in part because of illegal fishing, poor or incomplete surveys and discarded fish from commercial operations.
+
+Recording how many fish are caught is one important requirement to measure the well-being of a fish stock — if scientists know the number of fish taken from the ocean, they can adjust management of that fishery to keep it from being overfished. Missing catch data, however, are rampant, causing concern that fisheries around the world are overfished.
+
+A new study by University of Washington scientists finds that in many cases, this isn’t true. Specifically, misreporting caught fish doesn’t always translate to overfishing. The study was published online this month in the journal Fish and Fisheries.
+
+“While quantifying total catch is important for understanding how much is removed from the system, it is possible to manage sustainably even if we don’t know those numbers,” said lead author Merrill Rudd, a UW doctoral student in aquatic and fishery sciences. “This paper shows there are some situations where, just because there is unreported catch, it doesn’t mean we are overfishing.”
+
+The researchers modeled five different misreporting scenarios on a simulated fishery: complete reporting of catch numbers, constant over-reporting, constant under-reporting, increasing reporting rate over time and decreasing reporting rate over time. They found that in cases where misreporting was constant, the fish population could still be managed sustainably over the years because misreporting was proportional each year.
+
+But in cases where misreporting increased or decreased year to year, those fisheries were found to be over- or under-fished.
+
+In other words, the catch reporting trends — not the specific numbers of fish caught — are the most critical elements to consider when trying to understand a fishery’s overall status, the authors said.
+
+“It turns out that if you know what the trend is in a fish population, it doesn’t matter as much if you don’t know the catch numbers perfectly,” said Trevor Branch, senior author and a UW associate professor of aquatic and fishery sciences. “Now we think we know better what impact unreported catch has on fishery status.”
+
+A massive effort is underway through the University of British Columbia’s Sea Around Us initiative to reconstruct the catch data for fisheries worldwide. It’s clear from this work that misreporting at a constant rate happens frequently in fisheries around the world. The UW study connects with the reconstruction efforts by showing that many of these fish populations can still be well managed despite management being based on models using misreported catches.
+
+Misreporting can happen at the dock, on the boat and in processing plants — and many fish aren’t counted due to illegal fishing, sport fishing or discarded fish.
+
+No two fisheries are alike worldwide, and each faces its own challenges with management. Reporting what is caught is not always standard practice, and yet managers must evaluate each year the ability of a fishery to withstand fishing pressure. That, in turn, affects local economies and livelihoods.
+
+Instead of spending exhaustive time and money on trying to count each fish, managers could instead ask locals about fishing practices over the years to try to understand whether a misreporting trend is at play. They could also complete more biomass or biological surveys to better understand the life history of the fish.
+
+“It might not be wise to allocate all of the monitoring funds toward understanding what the total catch is because you might be able to manage sustainably without that information,” Rudd said. “Instead, if you could get a handle on the trends in each fishery, that might be a better use of funds.”
+
+Branch saw the need for a broad look at misreporting when helping to manage southern bluefin tuna. Right before a big management change was enacted, scientists discovered there had been major under-reporting of tuna catches.
+
+“My initial reaction was, ‘oh my goodness, we have been overfishing this whole time. When we model this, the fishery will be in a much worse state,'” Branch said.
+
+But when scientists added the missing catch numbers back into the model, the tuna population status actually improved into the future.
+
+“A takeaway of this study is to not be so alarmist when there are missing data, and instead understand the processes of how the data are used,” Rudd said. “Catch data don’t exist in a vacuum. To determine how the world’s fisheries are doing, you must consider the catch data with any other information available to make the management decisions.”
+
+The study was funded by the National Science Foundation IGERT Program on Ocean Change.
+""",
+
+### article 8
+"""
+What is illegal, unreported and unregulated (IUU) fishing?
+IUU fishing is that which takes place outside of the regulations set by governments and fishing management bodies. IUU fishing is worth up to an estimated £19.3 billion (US$ 23.5 billion) annually.
+
+Illegal fishing typically refers to fishing that breaks local or international law, as set by a fishing management body. It can include fishing without a license or permit, fishing in a closed-off area, fishing with prohibited gear, fishing above a quota, or the fishing of prohibited species.
+
+Unreported fishing refers to fishing activity that is not reported to the relevant authorities or is misreported and contravenes local or international law.
+
+Unregulated fishing frequently overlaps with illegal, unreported and overfishing. It refers to fishing vessels operating without being subject to any regulations. This could be fishing in areas where conservation or management measures have not been put in place, or when vessels from nations who have not joined the relevant management organisation fish within its waters without following the rules.
+
+Not all unregulated or unreported fishing is criminal, it could be a subsistence fisher in a developing region or accidental misreporting of a fish species.
+
+What is destructive fishing?
+Destructive fishing practices include the use of cyanide or explosives to catch fish. Cyanide is used to stun fish making them easier to catch. Explosives like dynamite are used to kill fish so they float to the surface and can easily be scooped up by nets. These destructive fishing practices can result in irreversible damage to habitats and ecosystems.
+
+What is sustainable fishing?
+Fishing is sustainable if it leaves enough fish in the oceans and minimises impacts on habitats and ecosystems. For this to happen, fisheries must be managed effectively.
+What is sustainable fishing?
+How does the MSC Program address IUU and destructive fishing?
+Destructive fishing methods are not allowed within the MSC program and no fishery using them is eligible for certification to the MSC Fisheries Standard for sustainability.
+
+The MSC program requires fishers to have strong management systems in place that detect whether local, national or international laws are being broken. 
+
+Fisheries that are independently certified to the Standard, work to a rigorous framework that ensures the stocks they fish are not under serious pressure from overfishing or IUU activities. Certified fisheries must also undergo regular audits to ensure they are complying with all aspects of the Standard.
+
+The Standard helps fishers improve the quality of data they collect and strengthen the monitoring, control and surveillance of the fishery’s operations.
+
+Research suggests that MSC certification and data obtained from the process are important tools for fishery managers and governments in combatting IUU fishing.
+
+Fishery assessment reports by independent teams are publicly available so seafood buyers can see for themselves what measures are taken by fisheries to address IUU fishing and comply with the Standard.
+
+Fisherman in yellow overalls with net in the air holding freshly caught toothfish
+Toothfish fisher by Tony Fitzsimmons
+
+What are legitimate fishers doing about IUU?
+There are many examples of how fisheries are driving out IUU fishing, such as the Patagonian toothfish (Chilean seabass) fishery. 
+
+For many years, uncontrolled IUU fishing was contributing to the decline of this high value species. Decisive action by six major toothfish fisheries has virtually eliminated IUU fishing in the Southern Ocean. Today, stocks have recovered, are healthy and MSC data shows over 50% of the world’s catch is certified sustainable against the MSC Fisheries Standard. 
+
+International collaborations continue to improve the sustainability of these fisheries, with the SARPC toothfish fishery now conducting research to ensure skates that interact with the fishery are unharmed when returned to the ocean.
+How MSC certified fisheries are improving
+How MSC certified fisheries are improving
+As well as fishing healthy populations, fisheries must show they are managing their impacts on habitats and other marine species.
+How does the MSC help prevent IUU seafood entering the supply chain?
+Between the ocean and your plate, fish and seafood products may pass through many stages. The MSC has a Chain of Custody (CoC) Standard with requirements to help prevent IUU seafood entering the legal marketplace. The requirements help identify and separate certified from non-certified seafood in the supply chain.
+
+When you see a product carrying the MSC blue label it means that every company within that supply chain must have a valid Chain of Custody certificate and the goods they supply come from a certified sustainable source and have not been fished using IUU methods.
+
+To achieve and maintain CoC certification, a business must be regularly assessed against the Standard by an independent certification body. These certificates are valid for three years and businesses are subject to surveillance audits to check they are meeting the requirements.
+"""
+]
+
+
+
+irrelevant_urls = [ 
+    'https://www.abc.net.au/news/2016-12-30/tasmanian-fishing-identities-held-after-record-cocaine-bust/8154188',
+    'https://stopillegalfishing.com/news-articles/22-thai-crewmembers-await-repatriation-thai-owned-somali-seven-fishing-vessels/',
+    'https://www.unodc.org/roseap/en/indonesia/2024/02/fisheries-crime/story.html',
+    'https://www.bloomassociation.org/en/new-study-reveals-massive-under-reporting-of-deep-sea-fish-catch/',
+    'https://www.science.org/doi/10.1126/sciadv.aaz3801',
+    'https://ejfoundation.org/news-media/new-rules-tighten-controls-on-eu-vessels-to-prevent-misreporting',
+    'https://www.washington.edu/news/2016/09/27/missing-fish-catch-data-not-necessarily-a-problem-new-study-says/',
+    'https://www.msc.org/what-we-are-doing/oceans-at-risk/illegal-unreported-unregulated-iuu-destructive-fishing'
+]
+
+
+print("there are", len(irrelevant_articles), "articles in irrelevant_articles.")
