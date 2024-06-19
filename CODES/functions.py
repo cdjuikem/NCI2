@@ -203,10 +203,59 @@ def scrape_maritime_executive(query):
 
 ########################################################
 #### Synonym and derived forms
-#### input: word
-#### output: the list of synonym and derived forms
 ########################################################
+########################################################
+# Synonym (copied 240619)
+# required libraries:
+import nltk 
+from nltk.corpus import wordnet 
+import requests
 
+def get_synonyms(word):
+    url = f"https://api.datamuse.com/words?rel_syn={word}"
+    response = requests.get(url)
+    if response.status_code == 200:
+        data = response.json()
+        synonyms = [entry['word'] for entry in data]
+        return synonyms
+    else:
+        print("Error:", response.status_code)
+        return []
+
+########################################################
+# related words (copied 240619)
+def get_related_words(word, limit=60, topics=None):
+    url = f"https://api.datamuse.com/words?ml={word}&max={limit}"
+    
+    if topics:
+        url += f"&topics={topics}"
+    
+    response = requests.get(url)
+    
+    if response.status_code == 200:
+        data = response.json()
+        related_words = [entry['word'] for entry in data]
+        return related_words
+    else:
+        print("Error:", response.status_code)
+        return []
+    
+########################################################
+# derived forms of a word (copied 240619)
+
+# import nltk
+# from nltk.stem import WordNetLemmatizer
+# from lemminflect import getInflection, getAllInflections    
+#getAllInflections('hide', upos='VERB')
+
+
+########################################################
+# A function to check if a word is in the list or not (copied 240619)    
+def check_word_in_list(word, word_list):
+    if word in word_list:
+        return f"'{word}' is in the list."
+    else:
+        return f"'{word}' is not in the list."
 
 
 
@@ -383,4 +432,8 @@ def weighted_info_score(text):
     #np.dot(score,weight_vector)
 
     return weighted_score
+
+
+
+
 
