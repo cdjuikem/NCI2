@@ -214,12 +214,26 @@ def scrape_maritime_executive(query):
 
 
 ########################################################
+#### input: text, a list of word
+#### output: text with only lower case and without special characters (hyphen will stay) 
+# This function requires re library
+########################################################
+import re 
+
+def text_preprocess(text):
+    # Text to lowercase
+    text = text.lower()
+    # Remove special characters using regular expression
+    cleaned_text = re.sub(r'[^-a-zA-Z0-9\s]', '', text)
+    return cleaned_text
+
+
+########################################################
 #### Use one representative word for all synonyms / derived words
 #### input: text, a list of word
 #### output: cleaned text (using the first word in the list for all words in the list)
 # This function requires re library
 ########################################################
-import re 
 
 ###### clean_word is with a subroutine of rep_word_text, dealing with one group of words
 def clean_word(text, group):
@@ -234,7 +248,7 @@ def clean_word(text, group):
     else:
         print("The word group is empty")
         return None
-
+   
 ##### Here word_group_list is the list of word groups.
 def rep_word_text(text, word_group_list):
     if len(word_group_list) != 0:
