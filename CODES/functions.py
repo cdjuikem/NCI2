@@ -79,7 +79,7 @@ def scrape_google_news(query):
 
     # Extract the title and link of each search result
     scrap = []
-    for i in range(min(len(search_results), 5)):
+    for i in range(min(len(search_results), 10)):
         title = search_results[i].find('a').text
         link = search_results[i].find('a')['href']
         #link = 'https://news.google.com' + link[1:]
@@ -121,7 +121,7 @@ def scrape_yahoo_news(query):
 
     # Extract the title and link of each search result
     scrap = []
-    for i in range(min(len(search_results), 5)):
+    for i in range(min(len(search_results), 10)):
         title = search_results[i].find('h4').text
         link = search_results[i].find('a')['href']
         date = date_elements[i].text[2:]

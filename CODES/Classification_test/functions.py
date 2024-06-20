@@ -144,7 +144,7 @@ def scrape_yahoo_news(query):
 def scrape_bing_news(query):
     # Construct the Yahoo News URL with the query
     url = f"https://www.bing.com/news/search?q={query}"
-
+    print(url)
     # Send a GET request to the URL
     response = requests.get(url)
 
@@ -203,14 +203,78 @@ def scrape_maritime_executive(query):
 
 ########################################################
 #### Synonym and derived forms
-#### input: word
-#### output: the list of synonym and derived forms
 ########################################################
+########################################################
+# Synonym (copied 240619)
+# required libraries:
+import nltk 
+from nltk.corpus import wordnet 
+import requests
+
+def get_synonyms(word):
+    url = f"https://api.datamuse.com/words?rel_syn={word}"
+    response = requests.get(url)
+    if response.status_code == 200:
+        data = response.json()
+        synonyms = [entry['word'] for entry in data]
+        return synonyms
+    else:
+        print("Error:", response.status_code)
+        return []
+
+########################################################
+# related words (copied 240619)
+def get_related_words(word, limit=60, topics=None):
+    url = f"https://api.datamuse.com/words?ml={word}&max={limit}"
+    
+    if topics:
+        url += f"&topics={topics}"
+    
+    response = requests.get(url)
+    
+    if response.status_code == 200:
+        data = response.json()
+        related_words = [entry['word'] for entry in data]
+        return related_words
+    else:
+        print("Error:", response.status_code)
+        return []
+    
+########################################################
+# derived forms of a word (copied 240619)
+
+# import nltk
+# from nltk.stem import WordNetLemmatizer
+# from lemminflect import getInflection, getAllInflections    
+#getAllInflections('hide', upos='VERB')
+
+
+########################################################
+# A function to check if a word is in the list or not (copied 240619)    
+def check_word_in_list(word, word_list):
+    if word in word_list:
+        return f"'{word}' is in the list."
+    else:
+        return f"'{word}' is not in the list."
 
 
 
 
 
+
+########################################################
+#### input: text, a list of word
+#### output: text with only lower case and without special characters (hyphen will stay) 
+# This function requires re library
+########################################################
+import re 
+
+def text_preprocess(text):
+    # Text to lowercase
+    text = text.lower()
+    # Remove special characters using regular expression
+    cleaned_text = re.sub(r'[^-a-zA-Z0-9\s]', '', text)
+    return cleaned_text
 
 
 ########################################################
@@ -219,7 +283,6 @@ def scrape_maritime_executive(query):
 #### output: cleaned text (using the first word in the list for all words in the list)
 # This function requires re library
 ########################################################
-import re 
 
 ###### clean_word is with a subroutine of rep_word_text, dealing with one group of words
 def clean_word(text, group):
@@ -234,7 +297,7 @@ def clean_word(text, group):
     else:
         print("The word group is empty")
         return None
-
+   
 ##### Here word_group_list is the list of word groups.
 def rep_word_text(text, word_group_list):
     if len(word_group_list) != 0:
@@ -298,16 +361,29 @@ def find_mmsi(content):
 import spacy
 
 ########################################################
-# people or company's names and nationality
-def find_involved_parties_spacy(text):
+# people's names
+def find_people(text):
     nlp = spacy.load('en_core_web_sm')
     doc = nlp(text)
     names = []
 
     for ent in doc.ents:
-        if ent.label_ in ['PERSON', 'ORG', 'NORP']: # NORP is about nationality/religious/political group
+        if ent.label_ in ['PERSON']: # NORP is about nationality/religious/political group
             names.append(ent.text)
     return names
+
+########################################################
+# company's names
+def find_company(text):
+    nlp = spacy.load('en_core_web_sm')
+    doc = nlp(text)
+    names = []
+
+    for ent in doc.ents:
+        if ent.label_ in ['ORG']: # NORP is about nationality/religious/political group
+            names.append(ent.text)
+    return names
+
 
 ########################################################
 # country's name / location
@@ -317,7 +393,7 @@ def find_location(text):
     locations = []
 
     for ent in doc.ents:
-        if ent.label_ in ['LOC', 'GPE']: # location labels
+        if ent.label_ in ['LOC', 'GPE', 'NORP']: # location labels
             locations.append(ent.text)
     return locations
 
@@ -326,23 +402,38 @@ def find_location(text):
 # fishing species
 
 
+########################################################
+# GRT
+
 
 ########################################################
 # Information score
-def info_score(text):
-    # give weigths to each information:
+# This function requires numpy
+import numpy as np
+
+########################################################
+# Information score
+def weighted_info_score(text):
+    #give weigths to each information:
     # IMO: 2
     # MMSI: 2
     # Involved parties or location: 1
-    # fish
-    # verbs (crime verbs)
     # The score will be out of 10
-    weight_vector = [2, 2, 1]
-    
-    imo = find_imo(text)
-    mmsi = find_mmsi(text)
-    parities_loc = find_involved_parties_spacy(text) + find_location(text)
-    score = (int(len(imo) != 0)*weight_vector[0] + int(len(mmsi) != 0)*weight_vector[1] +  int(len(parities_loc) != 0)*weight_vector[2])*2
-    
-    return score
+    score_list = [find_imo, find_mmsi, find_people, find_company, find_location]
+    weight_vector = np.array([2, 2, 1, 1, 1])
+    score = []
+    for item in score_list:
+        if len(item(text)) > 0:
+            score.append(1)
+        else:
+            score.append(0)
+    score = np.array(score)
+    weighted_score = score * weight_vector
+    #np.dot(score,weight_vector)
+
+    return weighted_score
+
+
+
+
 
