@@ -217,6 +217,60 @@ Between the ocean and your plate, fish and seafood products may pass through man
 When you see a product carrying the MSC blue label it means that every company within that supply chain must have a valid Chain of Custody certificate and the goods they supply come from a certified sustainable source and have not been fished using IUU methods.
 
 To achieve and maintain CoC certification, a business must be regularly assessed against the Standard by an independent certification body. These certificates are valid for three years and businesses are subject to surveillance audits to check they are meeting the requirements.
+""",
+#### Article 9
+"""
+MOSCOW, January 13. /ITAR-TASS/. Vasily Pashchenko, the captain of the Novoazovsk trawler detained in the Norwegian Sea, has been charged with violation of fish catching rules in the Norwegian economic zone, a source at the Russian Federal Agency for Fisheries (Rosrybolovstvo) told Itar-Tass on Monday. The Nordkapp Norwegian patrol ship detained the Russian trawler while it was fishing in the Norwegian Sea.
+
+The Norwegian side claims that the Novoazovsk threw dead or dying fish overboard. Captain Vasily Pashchenko has said that the ship was arrested because of a minor technical incident: some fish was simply washed away after the safety cage of a drain hole used for dumping water from the deck into the sea had broken, the Russian Federal Agency for Fisheries said.
+
+The Novoazovsk trawler was expected to arrive at the Norwegian port of Troms at 22:00 Moscow time on January 13, 2014. At the moment, the ship continues its voyage, escorted by Norwegian patrol boats. The vessel is undamaged and the crew feels well, the Federal Agency for Fisheries went on to say.
+
+A mid-sized Novoazovsk trawler freezer belongs to the Arkhangelsk Trawler Fleet joint-stock company and is registered at Murmansk port. The crew has 45 members. The ship has food stocks to last for 30 days.
+""",
+#### Article 10
+"""
+“The brutality and profit margins in the area of environmental crime are almost unimaginable. Cartels have taken over entire sectors of illegal mining, the timber trade and waste disposal,” according to Sasa Braun, intelligence officer with Interpol’s environmental security program  Braun listed examples. Villages in Peru that had resisted deforestation efforts had been razed to the ground by criminal gangs in retribution, he said, while illegal fishing fleets had thrown crew overboard to avoid having to pay them.
+
+Environmental crime has many faces and includes the illegal wildlife trade, illegal logging, illegal waste disposal and the illegal discharge of pollutants into the atmosphere, water or soil. It is a lucrative business for transnational crime networks. Illegal waste trafficking, for example, accounts for $10 to 12 billion (€10.28 to 12.34 billion) annually, according to 2016 figures from the United Nations Environment Program. Criminal networks save on the costs of proper disposal and obtaining permits. For some crime networks, the profits from waste management are so huge that it has become more interesting than drug trafficking…The profits from illegal logging have also grown…
+
+According to the European Union Agency for Law Enforcement Cooperation (Europol), environmental crime — the third most lucrative area of crime worldwide after drug trafficking and counterfeit goods — generates profits of between $110 billion and $280 billion each year.
+
+Excerpts from Environmental crime: Profit can be higher than drug trade, DW, Oct. 16, 2022
+""",
+#### Article 11
+"""
+On 28 December 2017, the Court of First Instance ruled that three fishing vessels titled “Yu Long 125”, “Yu Long 6” and “Hung Chi Fu 68” had violated the Royal Ordinance on Fisheries B.E. 2558 on three charges; (1) failing to comply with the Department of Fisheries’ Notification that all vessels without an overseas fishing license must return to port within the set deadline; (2) undertaking fishing in waters of other states and the high seas without permission; and (3) employing crews without seaman books. The fishing vessel company and its executives were ordered to pay a fine in total of 130,463,000 Thai Baht (approximately over 3.5 million Euros) as well as being sentenced to the maximum of 1 year and 15 months. Moreover, an administrative sanction was also applied, including (1) the confiscation of the fishing gear and aquatic animals aboard the vessels, (2) the detention of the vessels until the case completion, (3) the publication of the names of the vessels used in IUU fishing in accordance with Article 116 of the Royal Ordinance, and (4) the revocation of the vessels’ registration. The Department of Fisheries also proceeded to put the aquatic animals seized from the vessels up for auction.
+          Early in 2016 an inter-agency task force led by the Royal Thai Navy intercepted the above three vessels along with the other three vessels, namely Mook Andaman 018, Mook Andaman 028 and Ceribu and has detained them at the Phuket port. These six vessels are tuna trawlers that engaged in illegal fishing in the Indian Ocean. The remaining three vessels are still waiting for the decision of the trial court.
+          During the past two years, Thailand has captured and prosecuted 79 cases against overseas vessels, 51 of which have reached the final judgment, accounting for 64 percent of all the cases. Moreover, the Thai authorities have prosecuted another 1,065 cases of Thai and foreign vessels in Thai waters, including 184 foreign vessels illegally fishing in Thai waters. 817 out of the 1,065 cases, or 77 percent, have been concluded.
+          In addition, Thailand has implemented administrative sanctions alongside criminal proceedings. To date, the Administrative Sanction Committee has prosecuted 239 cases, including 66 cases of overseas fishing vessels, 103 cases of 30 GT-or-above Thai fishing vessels, and 67 cases of less-than-30 GT Thai fishing vessels. The penalties range from seizing the vessel, confiscating its fishing gear and aquatic animals, revoking its fishing license, and imposing fines which, so far, have totaled more than 43 million Baht (approximately over 1.1 million Euros).
+          Thailand has recently introduced a new measure to speed up the trial process by setting up two new special panels of judges within the Criminal Court to solely handle illegal fishing cases, as announced in the Criminal Court’s order on 29 January 2018. These cases will be deemed extraordinary and the court will aim to conclude all cases within six months after the charge accepted. Regarding the request for temporary release of the accused or defendants, due consideration will also be given to the circumstances relating to the alleged offence; whether it involves criminal networks or organizations or influential figures; and the impact of the alleged offence on the aquatic animal resources and environment.  All these efforts reflect the Royal Thai Government’s endeavor to strengthen law enforcement to effectively prevent, deter and eliminate the illegal fishing, as intended in the Royal Ordinance on Fisheries.
+
+"""
+
+####Article 12
+"""
+Ten Chinese fishing vessels, which sought “emergency shelter” in Ratnagiri in Maharashtra during Cyclone Vayu, are under the Centre’s scanner for allegedly fishing illegally in Indian waters . The investigation into the case began on Monday, and more than 200 crew members on board are being called for questioning to decide the course of action.
+
+According to the Indian authorities, the boats belong to the Fu Yuan Yu fleet, owned by Dongxinglong Ocean Fishing Company Ltd, based in Fu Zhou, Fujian province in China, and had entered the Indian waters on June 7, after taking permission from the Indian Coast Guard. However, on June 9, local fishermen complained that they were involved in fishing activities. “Shelter can’t be denied during cyclone emergencies like Cyclone Vayu. Using this opportunity, the 10 vessels got involved in illegal operations within India’s exclusive economic zone (EEZ) – coastal waters where a country can claim exclusive rights for fishing and other economic activities,” said a senior official from the department of fisheries, Ministry of Agriculture and Farmers’ Welfare. “The matter is being investigated through agencies and the Coast Guard. Deterrent action will be taken against all 10 vessels under violations of the Maritime Zones of India (Regulation) of Fishing by Foreign Vessels Act, 1981."
+
+The Indian Coast Guard said two boats have been brought to the Dabhol creek for further investigation, while the remaining eight vessels are anchored two nautical miles off the coast.
+
+These were the only trawlers fishing, amid the monsoon restriction. Ten vessels can fish around 80,000 tonnes of marine life in a month.
+
+Ganesh B Nakhawa, chairman, National Purse Seine Fishermen Welfare Association, said the boats are equipped with 500,000 KW of LED lights for purse seine, squid jigging and pelagic trawling. “The fleet also has other damaging illegal gear on board such as drifting gill nets, bottom trawl nets and dolphin attracting devices etc. Such vessels are banned worldwide by many fisheries commission and are under investigation of many international agencies,” he said. “The crew hails from Indonesia, Philippines and China. Of the 37 crew members of the two vessels who were questioned, the passports of 19 have expired. These vessels are depleting the Indian EEZ of important fish such as tuna, marlins, squids, mackerels and also causing damage to the ecology by targeting protected marine species such as sharks, turtles and dolphins.” Rajendra Jadhav, joint commissioner, Maharashtra fisheries department, said, “After confirming the Chinese trawlers were carrying out fishing activity in EEZ off the Maharashtra coast, we wrote a detailed letter to the Centre. The Centre further directed all agencies to take action. The fishermen said they had come for shelter, but fishing in EEZ area is illegal for international vessels. We are keeping a close watch on them.”
+
+An Indian Coast Guard official said, “Apart from just fishery related violations, we are investigating the nationality of these fishermen, their documents, proper customs clearance and other suspected threats.”
+
+HT has a copy of letters issued by the Centre and Intelligence Bureau ordering a probe,
+
+Fu Yuan Yu vessels have been named in illegal fishing cases in the past.
+
+According to the illegal, unreported and unregulated fishing (IUU) Risk Intelligence, these vessels have been involved in illegal fishing for tuna in the southern Indian Ocean and South African waters in 2016.
+
+“Very little is known about the Chinese company, its ownership, management, movements and activities of the “Fu Yuan Yu” fleet in the high seas,” read a report by IUU Risk Intelligence from May 29, 2016.
+
+Meanwhile, HT found the Chinese company that owns the vessels did not have a website or a functional telephone number listed on international data portals with details of the vessels.
 """
 ]
 
@@ -230,7 +284,11 @@ irrelevant_urls = [
     'https://www.science.org/doi/10.1126/sciadv.aaz3801',
     'https://ejfoundation.org/news-media/new-rules-tighten-controls-on-eu-vessels-to-prevent-misreporting',
     'https://www.washington.edu/news/2016/09/27/missing-fish-catch-data-not-necessarily-a-problem-new-study-says/',
-    'https://www.msc.org/what-we-are-doing/oceans-at-risk/illegal-unreported-unregulated-iuu-destructive-fishing'
+    'https://www.msc.org/what-we-are-doing/oceans-at-risk/illegal-unreported-unregulated-iuu-destructive-fishing',
+    'https://tass.com/world/714426',
+    'https://law-in-action.com/tag/illegal-fishing/',
+    'https://budapest.thaiembassy.org/en/content/88299-thai-court-has-fined-three-overseas-fishing-vessels-for-over-130-million-baht-on-illegal-fishing-charges?cate=5f205f5b0b09246d9a00a7ce',
+    'https://www.hindustantimes.com/mumbai-news/in-troubled-waters-10-chinese-vessels-found-fishing-illegally-in-maharashtra/story-FigOPCnmT3o0xuSDeqFjvN.html'    
 ]
 
 

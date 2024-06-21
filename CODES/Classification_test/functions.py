@@ -199,8 +199,57 @@ def scrape_maritime_executive(query):
         scrap.append({'title': title, 'link': link, 'date': date})   
     return scrap
 
+############################### Preprocessing ##########
+########################################################
+#### input: text, a list of word
+#### output: text with only lower case and without special characters (hyphen will stay) 
+# This function requires re library
+########################################################
+import re 
+
+def text_preprocess(text):
+    # Text to lowercase
+    text = text.lower()
+    # Remove special characters using regular expression
+    cleaned_text = re.sub(r'[^-a-zA-Z0-9\s]', '', text)
+    return cleaned_text
 
 
+########################################################
+#### Use one representative word for all synonyms / derived words
+#### input: text, a list of word
+#### output: cleaned text (using the first word in the list for all words in the list)
+# This function requires re library
+########################################################
+
+###### clean_word is with a subroutine of rep_word_text, dealing with one group of words
+def clean_word(text, group):
+    if len(group) == 1:
+        return text
+    elif len(group) != 1:
+        updated_text = text
+        for i in range(1,len(group)):
+            pattern = r'\b{}\b'.format(re.escape(group[i]))
+            updated_text = re.sub(pattern, group[0], updated_text)
+        return updated_text
+    else:
+        print("The word group is empty")
+        return None
+
+##### Here word_group_list is the list of word groups.
+def rep_word_text(text, word_group_list):
+    if len(word_group_list) != 0:
+        new_text = text
+        for i in range(len(word_group_list)):
+            new_text = clean_word(new_text, word_group_list[i])
+        return new_text
+    else:
+        print("the word group list is invalid")
+        return None
+
+    
+    
+    
 ########################################################
 #### Synonym and derived forms
 ########################################################
@@ -259,55 +308,6 @@ def check_word_in_list(word, word_list):
 
 
 
-
-
-
-########################################################
-#### input: text, a list of word
-#### output: text with only lower case and without special characters (hyphen will stay) 
-# This function requires re library
-########################################################
-import re 
-
-def text_preprocess(text):
-    # Text to lowercase
-    text = text.lower()
-    # Remove special characters using regular expression
-    cleaned_text = re.sub(r'[^-a-zA-Z0-9\s]', '', text)
-    return cleaned_text
-
-
-########################################################
-#### Use one representative word for all synonyms / derived words
-#### input: text, a list of word
-#### output: cleaned text (using the first word in the list for all words in the list)
-# This function requires re library
-########################################################
-
-###### clean_word is with a subroutine of rep_word_text, dealing with one group of words
-def clean_word(text, group):
-    if len(group) == 1:
-        return text
-    elif len(group) != 1:
-        updated_text = text
-        for i in range(1,len(group)):
-            pattern = r'\b{}\b'.format(re.escape(group[i]))
-            updated_text = re.sub(pattern, group[0], updated_text)
-        return updated_text
-    else:
-        print("The word group is empty")
-        return None
-   
-##### Here word_group_list is the list of word groups.
-def rep_word_text(text, word_group_list):
-    if len(word_group_list) != 0:
-        new_text = text
-        for i in range(len(word_group_list)):
-            new_text = clean_word(new_text, word_group_list[i])
-        return new_text
-    else:
-        print("the word group list is invalid")
-        return None
 
 
 

@@ -235,7 +235,110 @@ Chase, Herrick, Little, and Parent also pleaded guilty to submitting false infor
 “This type of unscrupulous and unlawful fishing alleged in the indictment returned by the grand jury directly affects the economic benefit of law-abiding fishermen and fishing communities,” NOAA Office of Law Enforcement Director James Landon said in a release. “We will continue to help bring to justice those who are proven to have violated U.S. fishing laws and regulations to help ensure the sustainability of our living marine resources while also maximizing economic benefit.”
 
 According to the Press Herald, the plea agreements carry a maximum sentence of a year in prison, a fine of up to USD 100,000 (EUR 91,800), and up to one year of supervised release – with the possibility that none of the defendants see jail time.
+""",
+
+#### article 9
 """
+On August 6, the Spanish long-line fishing vessel Alemar Primero was boarded in waters belonging to the Central African island state of São Tomé, and authorities found the vessel’s holds filled with dead sharks.
+
+The Príncipe by São Toméan authorities, assisted by Sea Shepherd crew and law enforcement officers from Gabon, confirmed that most of the sharks were blue sharks, classified as “near-threatened” by the IUCN. 
+
+The long liner was licensed to fish for “tuna and similar species.” 
+
+Many of the shark’s fins had already been detached from their bodies, a suspected violation, says Sea Shepherd, of the European Union Finning Ban (1185/2003) and its amendment (605/2013), which requires sharks to be landed with their Fins Naturally Attached (FNA).
+
+São Toméan authorities ordered the long-liner to retrieve their fishing gear, release their catch and proceed to São Tomé for investigation. With four marines remaining on board for security, the long-liner was escorted to São Tomé by the Sea Shepherd vessel Bob Barker.
+
+On August 7, the Alemar Primero arrived in the fishing village of Neves where it will remain, pending investigations.
+
+Since April 2016, under the name Operation Albacore, Sea Shepherd has been assisting the Government of Gabon to tackle illegal, unreported and unregulated fishing by providing the use of the Bob Barker as a civilian offshore patrol vessel operating in Gabonese waters, under the direction of the Gabonese Government.
+
+In August, São Tomé and Príncipe sent two marines and one fisheries observer from São Tomé to join Sea Shepherd crew, Gabonese marines and Gabonese fisheries enforcement officers on board the Bob Barker, to further detect and deter illegal fishing in the Gulf of Guinea.
+""",
+#### article 10
+"""
+On the 5th of September, the Spanish long-line fishing vessel Baz was boarded in waters belonging to the Central African island state of São Tomé and Príncipe by São Toméan authorities, assisted by marine conservationists from Sea Shepherd and law enforcement officers from Gabon during a joint operation called Operation Albacore.
+
+Although the long-liner was licensed to fish for 'tuna and similar species' inspections revealed that their fish holds were mostly filled with sharks, predominately blue sharks that are classified as 'near-threatened' by the International Union for Conservation of Nature (IUCN), but also shortfin mako sharks classified as ‘vulnerable’, one category away from ‘endangered’. Many of the shark fins had already been detached from their bodies, a suspected violation of the European Union Finning Ban (1185/2003) and its amendment (605/2013), which requires any captured sharks to be delivered with their Fins Naturally Attached (FNA).
+
+There were almost twice as many sharks as tuna on board the Baz, with the vessel carrying 62,730 kilograms of blue sharks and 6,242 kilograms of shortfin mako shark, compared to 36,943 kilograms of Bigeye Tuna and 5,387 kilograms of Yellowfin Tuna.
+
+Fishing line tracers (or snoods), which are the monofilament segments that support the fishing hooks, were reinforced with steel wire, thereby underlining the suspicion that the targeted species of the Baz was mainly sharks, not tuna. Steel snoods are used so that sharks do not bite through the fishing line and escape.
+
+Fish on board were also found gutted and processed, which is a violation of São Toméan fisheries regulations when advance approval has not been sought, which the Baz did not obtain.
+
+Just over one year earlier, on August 2016, São Toméan authorities, again operating on board Sea Shepherd’s M/Y Bob Barker, arrested a Spanish long-line fishing vessel, the Alemar Primero. On board the Alemar Primero were 87 tons of sharks and shark fins. The vessel was subsequently arrested and released three weeks later after paying a fine for various offenses unrelated to shark finning because, although covered under the European Union Finning Ban, shark finning is not yet expressly banned under São Toméan national legislation.
+
+“The São Toméan fisheries department lodged a complaint with the EU Directorate-General of Maritime Affairs and Fisheries (DG Mare) to follow up on the European Union Finning Ban charges, but oddly charges were not pursued in Spain, the vessel Flag State, under the excuse of double jeopardy, claiming that penalties had already been meted out in São Tomé despite the fact that those penalties were not for shark finning”, said Sea Shepherd Director of Campaigns Peter Hammarstedt.
+
+On the 10thof October 2017, the São Toméan fisheries department issued a Notice of Violation of Fisheries Rules to the Spanish ship owner as well as a request to the European Commission to investigate the violation of the European Union Finning Ban.
+
+Sea Shepherd believes that the inspection and boarding of the Baz is an opportunity for the Spanish Flag State to finally reign in the criminal activities of its long-line fleet.
+
+“The evasion of European responsibility in pursing charges against the Alemar Primero for violating the EU Finning Ban is why the Spanish long-line fishing fleet feels confident to continue finning sharks in São Toméan waters in violation of European conservation regulations,” said Peter Hammarstedt. “The EU DG Mare must set an example with the Baz. If the Spanish Flag State does not penalize the Baz, then there will be no justice for São Tomé and Príncipe and the EU Finning Ban will be toothless.”
+
+About Operation Albacore
+
+In 2016 Sea Shepherd partnered with the government of Gabon for the first Operation Albacore campaign, resulting in over 40 fishing vessel inspections at sea and the subsequent arrest of three IUU Congolese fishing trawlers and one Spanish long-liner. Operation Albacore re-commenced in 2017 with the arrival of the Bob Barker in Gabon on the 5th of July.
+
+In September, São Tomé and Príncipe continued its partnership with Operation Albacore, sending two marines and one fisheries observer from São Tomé to join Sea Shepherd crew, Gabonese marines (Marine Nationale) and Gabonese fisheries enforcement (ANPA) officers on board the M/Y Bob Barker, to further detect and deter IUU fishing in the Gulf of Guinea.
+
+The campaign aims to expand existing monitoring, control and surveillance measures; to detect and deter IUU fishing activity while also monitoring legal compliance by licensed fishing operators. Throughout the 2017 tuna fishing season, Marine Nationale and ANPA have been stationed on board the Bob Barker, working alongside Sea Shepherd crew to patrol Gabon's sovereign waters.
+
+The European Union Finning Ban was passed as a conservation measure to ensure that shark bodies are not discarded at sea in order to make room for the more valuable shark fins, resulting in far more sharks killed than would otherwise be the case. Sharks are being killed in increasingly large numbers to meet an Asian demand for fins to make shark fin soup.  One-third of shark species are overfished to the extent that they risk extinction. 
+""",
+
+#### Article 11
+"""
+A notorious Antarctic and Patagonian toothfish poaching vessel, famous for plundering the Antarctic, was arrested on March 13th in waters belonging to the West African state of Liberia by the Liberian Coast Guard, with assistance from Sea Shepherd.
+
+The F/V Hai Lung, known to the Commission for the Conservation of Antarctic Marine Living Resources (CCAMLR) by its previous name ‘Kily’, was transiting through Liberian waters when it was boarded and inspected by a Liberian Coast Guard team working alongside Sea Shepherd crew on board Sea Shepherd’s patrol vessel M/Y Sam Simon.
+
+Operating under a long list of different names; including ‘Yele’, ‘Ray’, ‘Kily’, ‘Constant’, ‘Tropic’ and ‘Isla Graciosa’; the F/V Hai Lung is an infamous fishing vessel that has been blacked-listed by several regional fisheries management organizations (RFMOs) including CCAMLR, SEAFO and NEAFC.
+
+As a result, the vessel has been denied port access in Togo and Angola, and unofficial sources state that it was detained in Nigeria for entering Nigerian waters without authorization last year.
+
+Once on board the F/V Hai Lung, the Liberian Coast Guard Boarding Officer was presented with forged documentation alleging that the F/V Hai Lung was flagged to the Republic of Indonesia as a fishing vessel.
+
+The Certificate of Nationality was allegedly issued on the 8th of August 2017 in Jakarta, Indonesia by a senior Ministry of Transportation official who had long since been transferred to another government position. The Indonesian Ministry of Maritime Affairs and Fisheries has no record of the vessel in their databases.
+
+The forged Certificate of Nationality makes the F/V Hai Lung a vessel ‘without nationality’, subject to seizure anywhere, including on the High Seas.
+""",
+#### Article 12
+"""
+Fines totalling $120,500 were imposed on the captain of Korean fishing vessel Oyang 77 for dumping quota fish at sea and misreporting the catch.
+
+With the conviction and sentencing of the captain, Dae Jun Lee, 30, the trawler and its fishing gear is now automatically forfeited to the Crown.
+
+However, the prosecutor for the Ministry of Primary Industries, Chris Lange, said it was expected that the owners would file an application for relief from forfeiture, which would trigger a separate hearing.
+
+The ship is owned by the Sajo Oyang Corporation, while Southern Storm Fishing 2007 Ltd was the fishing quota permit holder and chartered the vessel.
+
+The trawler is a sister ship to the Oyang 70, which sank off Otago in August 2010 killing six, and of the Oyang 75, whose crew walked off in protest at claimed inhumane conditions aboard.
+
+The Oyang 77 did 11 trawling trips in the New Zealand region, and was tied up at Lyttelton during the 14-day hearing last year. Christchurch District Court Judge Brian Callaghan was able to visit it during the hearing.
+
+Lee pleaded guilty during the trial to charges of omitting to report that a basking shark had been caught in the net and returned to the sea, and omitting to include details in the catch documentation about fish catch lost at sea when a net broke and sank. He was found guilty of the fish dumping and misreporting charges at the end of the trial.
+
+Lange said there was an inherent difficulty in prosecuting this type of case and presenting accurate evidence at the hearing.
+
+"The fisheries regime relies on the honesty of those who exercise the privilege of fishing to ensure the sustainability of the fishery for current and a future generations."
+
+Lee had been aware of his obligations not to dump fish at sea, and had told crew not to do any dumping when a fisheries observer was on board.
+
+Squid, hoki, barracouta were involved in the discarding and false catch returns. The total amount of catch involved was 75.8 tonnes.
+
+Lange said 53 tonnes of hoki had been dumped because it was uneconomic to process because the fish was small or damaged, and then higher quality fish worth $73,000 had been caught and processed.
+
+Defence counsel Mark Dollimore contrasted the Crown call for a $200,000 fine with comparable cases. There was no suggestion that the discarding resulted in anything more than an increase in pay through an incentive scheme for Lee.
+
+He suggested fines totalling no more than $80,000.
+
+Judge Callaghan said the offending was clandestine and difficult to discover and prosecute. "The protection of the resource and its proper management is a major factor as well."
+
+Lee was not at court for the sentencing. The Oyang 77 is at present fishing off Uruguay, South America. The Crown holds a bond in such cases.
+"""
+#### Article 13
 ]
 
 relevant_urls = [
@@ -246,7 +349,11 @@ relevant_urls = [
     'https://www.nationalfisherman.com/northeast/maine-fishermen-take-plea-deal-for-herring-fraud',
     'https://ca.news.yahoo.com/n-boat-captain-2-companies-162344207.html',
     'https://ca.news.yahoo.com/p-e-snow-crab-fishers-220424185.html',
-    'https://www.seafoodsource.com/news/supply-trade/five-maine-fishermen-plead-guilty-to-falsifying-herring-catch'
+    'https://www.seafoodsource.com/news/supply-trade/five-maine-fishermen-plead-guilty-to-falsifying-herring-catch',
+    'http://www.maritime-executive.com/article/spanish-long-liner-detained-over-shark-fishing',
+    'https://news.cision.com/sea-shepherd-global/r/massive-spanish-shark-finning-operation-uncovered-in-sao-tome-and-principe,c2369004',
+    'https://www.seashepherdglobal.org/latest-news/toothfish-poacher-arrest/',
+    'https://www.stuff.co.nz/the-press/10456332/Captain-fined-120K-for-dumping-fish'
 ]
 
 print("there are", len(relevant_articles), "articles in relevant_articles.")
