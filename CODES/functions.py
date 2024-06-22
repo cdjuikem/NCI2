@@ -255,7 +255,7 @@ def verb_forms(word):
     for item in forms:
         form_set.add(item[0])
     if form_set == {}:
-        return word
+        return [word]
     else:
         return list(form_set)
 

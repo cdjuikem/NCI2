@@ -107,13 +107,10 @@ from bs4 import BeautifulSoup
 
 def scrape_yahoo_news(query):
     # Construct the Yahoo News URL with the query
-    headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
-    }
     url = f"https://ca.news.search.yahoo.com/search?p={query}"
 
     # Send a GET request to the URL
-    response = requests.get(url, headers = headers)
+    response = requests.get(url)
 
     # Parse the HTML content of the page
     soup = BeautifulSoup(response.text, 'html.parser')
@@ -244,12 +241,23 @@ def get_related_words(word, limit=60, topics=None):
         return []
     
 ########################################################
-# derived forms of a word (copied 240619)
-
-# import nltk
-# from nltk.stem import WordNetLemmatizer
-# from lemminflect import getInflection, getAllInflections    
-#getAllInflections('hide', upos='VERB')
+# different forms of a verb
+import nltk
+from nltk.stem import WordNetLemmatizer
+from lemminflect import getInflection, getAllInflections    
+def verb_forms(word):
+    # Get all inflections for the word as a verb
+    inflections = lemminflect.getAllInflections(word, upos='VERB')
+    
+    # Check if the word or any of its inflections are in the list of verb inflections
+    forms = list(inflections.values())
+    form_set = set()
+    for item in forms:
+        form_set.add(item[0])
+    if form_set == {}:
+        return [word]
+    else:
+        return list(form_set)
 
 
 ########################################################
@@ -288,10 +296,10 @@ def text_preprocess(text):
 ########################################################
 
 ###### clean_word is with a subroutine of rep_word_text, dealing with one group of words
-#from nltk.stem import WordNetLemmatizer
-#from lemminflect import getInflection, getAllInflections
-##import nltk
-#from nltk.corpus import stopwords
+from nltk.stem import WordNetLemmatizer
+from lemminflect import getInflection, getAllInflections
+import nltk
+from nltk.corpus import stopwords
 
 
 # import nltk
