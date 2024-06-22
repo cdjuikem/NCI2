@@ -107,10 +107,13 @@ from bs4 import BeautifulSoup
 
 def scrape_yahoo_news(query):
     # Construct the Yahoo News URL with the query
-    url = f"https://news.search.yahoo.com/search?p={query}"
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+    }
+    url = f"https://ca.news.search.yahoo.com/search?p={query}"
 
     # Send a GET request to the URL
-    response = requests.get(url)
+    response = requests.get(url, headers = headers)
 
     # Parse the HTML content of the page
     soup = BeautifulSoup(response.text, 'html.parser')
@@ -121,7 +124,7 @@ def scrape_yahoo_news(query):
 
     # Extract the title and link of each search result
     scrap = []
-    for i in range(min(len(search_results), 10)):
+    for i in range(min(len(search_results), 20)):
         title = search_results[i].find('h4').text
         link = search_results[i].find('a')['href']
         date = date_elements[i].text[2:]
@@ -157,7 +160,7 @@ def scrape_bing_news(query):
     
     # Extract the title and link of each search result
     scrap = []
-    for i in range(min(len(search_results), 10)):
+    for i in range(min(len(search_results), 20)):
         title = search_results[i].find('a', class_ = 'title').text
         link = search_results[i].find('a', class_ = 'title')['href']
         date = date_elements[i]['aria-label']
@@ -199,57 +202,8 @@ def scrape_maritime_executive(query):
         scrap.append({'title': title, 'link': link, 'date': date})   
     return scrap
 
-############################### Preprocessing ##########
-########################################################
-#### input: text, a list of word
-#### output: text with only lower case and without special characters (hyphen will stay) 
-# This function requires re library
-########################################################
-import re 
-
-def text_preprocess(text):
-    # Text to lowercase
-    text = text.lower()
-    # Remove special characters using regular expression
-    cleaned_text = re.sub(r'[^-a-zA-Z0-9\s]', '', text)
-    return cleaned_text
 
 
-########################################################
-#### Use one representative word for all synonyms / derived words
-#### input: text, a list of word
-#### output: cleaned text (using the first word in the list for all words in the list)
-# This function requires re library
-########################################################
-
-###### clean_word is with a subroutine of rep_word_text, dealing with one group of words
-def clean_word(text, group):
-    if len(group) == 1:
-        return text
-    elif len(group) != 1:
-        updated_text = text
-        for i in range(1,len(group)):
-            pattern = r'\b{}\b'.format(re.escape(group[i]))
-            updated_text = re.sub(pattern, group[0], updated_text)
-        return updated_text
-    else:
-        print("The word group is empty")
-        return None
-
-##### Here word_group_list is the list of word groups.
-def rep_word_text(text, word_group_list):
-    if len(word_group_list) != 0:
-        new_text = text
-        for i in range(len(word_group_list)):
-            new_text = clean_word(new_text, word_group_list[i])
-        return new_text
-    else:
-        print("the word group list is invalid")
-        return None
-
-    
-    
-    
 ########################################################
 #### Synonym and derived forms
 ########################################################
@@ -310,6 +264,72 @@ def check_word_in_list(word, word_list):
 
 
 
+
+########################################################
+#### input: text, a list of word
+#### output: text with only lower case and without special characters (hyphen will stay) 
+# This function requires re library
+########################################################
+import re 
+
+def text_preprocess(text):
+    # Text to lowercase
+    text = text.lower()
+    # Remove special characters using regular expression
+    cleaned_text = re.sub(r'[^-a-zA-Z0-9\s]', '', text)
+    return cleaned_text
+
+
+########################################################
+#### Use one representative word for all synonyms / derived words
+#### input: text, a list of word
+#### output: cleaned text (using the first word in the list for all words in the list)
+# This function requires re library
+########################################################
+
+###### clean_word is with a subroutine of rep_word_text, dealing with one group of words
+#from nltk.stem import WordNetLemmatizer
+#from lemminflect import getInflection, getAllInflections
+##import nltk
+#from nltk.corpus import stopwords
+
+
+# import nltk
+# from nltk.stem import WordNetLemmatizer
+# from lemminflect import getInflection, getAllInflections    
+#getAllInflections('hide', upos='VERB')
+
+
+
+
+
+def clean_word(text, group):
+    if len(group) == 1:
+        return text
+    elif len(group) != 1:
+        updated_text = text
+        for i in range(1,len(group)):
+            pattern = r'\b{}\b'.format(re.escape(group[i]))
+            updated_text = re.sub(pattern, group[0], updated_text)
+        return updated_text
+    else:
+        print("The word group is empty")
+        return None
+
+##### Here word_group_list is the list of word groups.
+def rep_word_text(text, word_group_list):
+    if len(word_group_list) != 0:
+        new_text = text
+        for i in range(len(word_group_list)):
+            new_text = clean_word(new_text, word_group_list[i])
+        return new_text
+    else:
+        print("the word group list is invalid")
+        return None
+
+# Forming word_group_list for verbs
+
+    
 
 
 ########################################################
@@ -432,6 +452,34 @@ def weighted_info_score(text):
     #np.dot(score,weight_vector)
 
     return weighted_score
+
+
+
+###################################################################
+#
+
+        
+from datetime import datetime, date
+
+def convert_day(date_string):
+    # Define the format of the input date string
+    date_format = "%m/%d/%Y"
+
+    try:
+        # Parse the input date string into a datetime object
+        given_date = datetime.strptime(date_string, date_format).date()
+
+        # Get today's date
+        today = date.today()
+
+        # Calculate the difference in days
+        days_difference = (today - given_date).days
+
+        return days_difference
+
+    except ValueError:
+        # Handle invalid date format or other errors
+        return None
 
 
 
