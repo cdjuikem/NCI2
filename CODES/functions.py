@@ -241,12 +241,23 @@ def get_related_words(word, limit=60, topics=None):
         return []
     
 ########################################################
-# derived forms of a word (copied 240619)
-
-# import nltk
-# from nltk.stem import WordNetLemmatizer
-# from lemminflect import getInflection, getAllInflections    
-#getAllInflections('hide', upos='VERB')
+# different forms of a verb
+import nltk
+from nltk.stem import WordNetLemmatizer
+from lemminflect import getInflection, getAllInflections    
+def verb_forms(word):
+    # Get all inflections for the word as a verb
+    inflections = lemminflect.getAllInflections(word, upos='VERB')
+    
+    # Check if the word or any of its inflections are in the list of verb inflections
+    forms = list(inflections.values())
+    form_set = set()
+    for item in forms:
+        form_set.add(item[0])
+    if form_set == {}:
+        return word
+    else:
+        return list(form_set)
 
 
 ########################################################
