@@ -210,7 +210,7 @@ def scrape_maritime_executive(query):
 import nltk 
 from nltk.corpus import wordnet 
 import requests
-
+globallist
 def get_synonyms(word):
     url = f"https://api.datamuse.com/words?rel_syn={word}"
     response = requests.get(url)
@@ -283,7 +283,7 @@ import re
 def text_preprocess(text):
     # Text to lowercase
     text = text.lower()
-    # Remove special characters using regular expression
+    # Remove special characters using regular expression (except for hyphen "-")
     cleaned_text = re.sub(r'[^-a-zA-Z0-9\s]', '', text)
     return cleaned_text
 
@@ -301,41 +301,61 @@ from lemminflect import getInflection, getAllInflections
 import nltk
 from nltk.corpus import stopwords
 
+########################################
+# Forming word_group_list for verbs
+def collect_verb(text):
+    words = word_tokenize(text)
+    pos_tags = pos_tag(words)
+    verbs = [word for word, tag in pos_tags if tag.startswith('V')]
+    return verbs
 
-# import nltk
-# from nltk.stem import WordNetLemmatizer
-# from lemminflect import getInflection, getAllInflections    
-#getAllInflections('hide', upos='VERB')
-
-
-
-
-
+##########################################
+# cleaning the text using the given list of verb forms
+# group: a list of different forms of a verb
 def clean_word(text, group):
     if len(group) == 1:
         return text
     elif len(group) != 1:
-        updated_text = text
+        new_text = text
         for i in range(1,len(group)):
             pattern = r'\b{}\b'.format(re.escape(group[i]))
-            updated_text = re.sub(pattern, group[0], updated_text)
-        return updated_text
-    else:
-        print("The word group is empty")
-        return None
-
-##### Here word_group_list is the list of word groups.
-def rep_word_text(text, word_group_list):
-    if len(word_group_list) != 0:
-        new_text = text
-        for i in range(len(word_group_list)):
-            new_text = clean_word(new_text, word_group_list[i])
+            new_text = re.sub(pattern, group[0], new_text)
         return new_text
     else:
-        print("the word group list is invalid")
-        return None
+        print("The word group is empty")
+        return text
 
-# Forming word_group_list for verbs
+##########################################    
+##### In text, change all verbs in representative form (mostly the basic form, but sometimes not)
+misreport = ['misreport', 'misreports', 'misreporting', 'misreported']
+underreport = ['underreport', 'underreports', 'underreporting', 'underreported']
+unreport = ['unreport', 'unreports', 'unreporting', 'unreported']
+pre_selected_word_list = [misreport, underreport, unreport]
+
+def rep_word_text(text):
+    global pre_selected_word_list
+    
+    new_text = text
+    for word_form_list in pre_selected_word_list:
+        if len(word_form_list) != 1:
+            new_text = clean_word(new_text,word_form_list)
+        else:
+            new_text = text
+            
+    verb_list = collect_verb(new_text)
+    if verb_list == []:
+        return new_text
+    else:
+        for verb in verb_list:
+            # Form the verb_form_list using the basic form of each word.
+            verb_form_list = verb_forms(lemmatizer.lemmatize(verb.lower(), pos='v'))
+            
+            #if the verb form list is not trivial, clean the text with the list
+            if len(verb_form_list) > 1:
+                new_text = clean_word(new_text, verb_form_list)
+            else:
+                new_text = text
+        return new_text
 
     
 
