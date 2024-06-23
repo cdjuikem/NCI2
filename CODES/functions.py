@@ -333,7 +333,7 @@ pre_selected_word_list = [misreport, underreport, unreport]
 
 def rep_word_text(text):
     global pre_selected_word_list
-    
+    lemmatizer = WordNetLemmatizer()
     new_text = text
     for word_form_list in pre_selected_word_list:
         if len(word_form_list) != 1:

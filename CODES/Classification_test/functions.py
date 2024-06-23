@@ -347,6 +347,7 @@ def rep_word_text(text):
     if verb_list == []:
         return new_text
     else:
+        lemmatizer = WordNetLemmatizer()
         for verb in verb_list:
             # Form the verb_form_list using the basic form of each word.
             verb_form_list = verb_forms(lemmatizer.lemmatize(verb.lower(), pos='v'))
