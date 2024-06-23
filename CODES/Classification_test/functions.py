@@ -210,7 +210,7 @@ def scrape_maritime_executive(query):
 import nltk 
 from nltk.corpus import wordnet 
 import requests
-globallist
+
 def get_synonyms(word):
     url = f"https://api.datamuse.com/words?rel_syn={word}"
     response = requests.get(url)
