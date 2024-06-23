@@ -249,7 +249,7 @@ def get_related_words(word, limit=60, topics=None):
 # different forms of a verb
 def verb_forms(word):
     # Get all inflections for the word as a verb
-    inflections = lemminflect.getAllInflections(word, upos='VERB')
+    inflections = getAllInflections(word, upos='VERB')
     
     # Check if the word or any of its inflections are in the list of verb inflections
     forms = list(inflections.values())
