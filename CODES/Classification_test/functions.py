@@ -208,8 +208,14 @@ def scrape_maritime_executive(query):
 # Synonym (copied 240619)
 # required libraries:
 import nltk 
-from nltk.corpus import wordnet 
 import requests
+from nltk.stem import WordNetLemmatizer
+from lemminflect import getInflection, getAllInflections
+from nltk.tokenize import word_tokenize
+from nltk.tag import pos_tag
+from nltk.corpus import stopwords
+from nltk.corpus import wordnet 
+
 
 def get_synonyms(word):
     url = f"https://api.datamuse.com/words?rel_syn={word}"
@@ -242,9 +248,7 @@ def get_related_words(word, limit=60, topics=None):
     
 ########################################################
 # different forms of a verb
-import nltk
-from nltk.stem import WordNetLemmatizer
-from lemminflect import getInflection, getAllInflections    
+
 def verb_forms(word):
     # Get all inflections for the word as a verb
     inflections = lemminflect.getAllInflections(word, upos='VERB')
@@ -295,11 +299,7 @@ def text_preprocess(text):
 # This function requires re library
 ########################################################
 
-###### clean_word is with a subroutine of rep_word_text, dealing with one group of words
-from nltk.stem import WordNetLemmatizer
-from lemminflect import getInflection, getAllInflections
-import nltk
-from nltk.corpus import stopwords
+
 
 ########################################
 # Forming word_group_list for verbs
@@ -311,6 +311,7 @@ def collect_verb(text):
 
 ##########################################
 # cleaning the text using the given list of verb forms
+# clean_word is with a subroutine of rep_word_text, dealing with one group of words
 # group: a list of different forms of a verb
 def clean_word(text, group):
     if len(group) == 1:
