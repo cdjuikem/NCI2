@@ -1,48 +1,39 @@
 irrelevant_articles = [
 ##### article 1
 """
-The former director of a major Australian fishing company has faced court in Sydney after being charged over Australia's biggest cocaine haul.
+Researchers at the South Carolina Aquarium have documented a unique feeding strategy of dolphins in the Charleston Harbor.
 
-Late on Wednesday, the Australian Federal Police announced it had arrested 15 men and seized 1.1 tonnes of cocaine worth an estimated $360 million.
+Dolphins can be seen using the side of a docked commercial shipping vessel to help catch their prey, according to South Carolina Aquarium Educator and Scientist Meghan Galipeau.
 
-The syndicate was allegedly using a fishing trawler to meet a "mother ship" from South America to bring the cocaine into Australia.
+Described as an adaptive strategy they developed in an urbanized estuary, the dolphins corner a fish by chasing it against the side of a ship. Oftentimes, the fish will try to escape by jumping out of the water.
 
-Joseph Pirrello, 63, was arrested in Sydney on Christmas Day.
+"It's never been documented that the dolphins are using this type of commercial shipping vessel to do that," Galipeau said. "That's what makes this unique and special to seeing that happen here."
+"It's really interesting to see how the dolphins are using those ships to their advantage to feed more efficiently," she continued. "It's really cool for us to be able to identify that and study that and see how they have adjusted to the environment that we share."
 
-Pirello was formerly a managing director of Seafish Tasmania when the company brought the controversial super trawler Abel Tasman (later named Magiris) to Australia in 2012.
+Those interested in witnessing the feeding behavior must remain 150 feet away from the dolphin, per federal law. Researchers at the South Carolina Aquarium were able to record the behavior by boat after receiving a permit allowing them to approach more closely while still disrupting the animals as little as possible.
 
-He faced court on December 27, was refused bail and his next court date is March 29.
-
-Fellow Tasmanian James Colin Collins, 63, was arrested in Rokeby, a suburb of Hobart, on December 27 and extradited to Sydney the next day.
-
-Collins is a director of fishing company Lorjona Pty Ltd, which has an office in Hobart.
-
-He faced court in Sydney on December 29, was refused bail and will appear in court again on January 11.
-
-Police had been monitoring the drug ring for three years.
 """,
 
 ##### article 2
 """
-Twenty-two crewmembers are currently being held in the Maldives awaiting repatriation to Thailand, following the detention of the Thai-owned trawlers CHOTPATTANA 51 and CHOTPATTANA 55 by authorities in the Maldives.
+The Ministry of Trade, Industry, and Fisheries in Norway is implementing new conditions for participation in snow crab fishing to ensure "better profitability". It would be a developed measure already implemented in December 2023.
 
-The vessels were part of a group of Thai-owned, Djibouti-flagged trawlers labelled the ‘Somali Seven’ by New York Times investigative reporter, Ian Urbina, and were investigated for operating illegally in Somali waters from March to May 2017. The CHOTPATTANA 55, CHOTCHAINAVEE 35, CHOTPATTNA 51, CHAINAVEE 54, CHAINAVEE 55, SUPPHERMNAVEE 21 and CHAICHANACHOKE 8 were all reflagged from Thailand to Djibouti during 2017, most likely in response to stronger regulations and controls put in place by Thai authorities in respect to their flagged fishing vessels.
+According to Fisheries and Ocean Minister Marianne Sivertsen Næss, through rigorous participation, "fewer participants will provide more predictability for the operators and limit the environmental impact caused by abandoned and lost gear in the sea."
 
-The fleet arrived in the Indian Ocean in January 2017 and operated close to the Puntland coastline with vessel and track analysis indicating they were engaged in trawl fisheries. Under Somali law, trawling is prohibited within 24 nautical miles of the coastline, while the Somali and Puntland fisheries laws also ban the use of trawl gear.
+Prior, the petition for a participation limit was consulted and according to the Ministry, almost all agents agreed on its implementation. Thus, the ministry decided that the measure would come into effect on January 1, 2025.
 
-After six weeks of operations in the region the fishing vessels were joined by the Honduran flagged WISDOM SEA REEFER, a refrigerated cargo vessel that is known to have the capability to conduct at sea transhipment. A few days after the WISDOM SEA REEFER arrived in the area, four of the fishing vessels, CHAINAVEE 55, CHAINAVEE 54, SUPPHERMNAVEE 21 and CHAICHANACHOKE 8 went “dark” so their positions were no longer transmitted by their AIS units, a known strategy when conducting transhipment that is considered unauthorised or controversial.
+Precisely, participation is limited by requiring activity in the catch during two of the qualifying years (2020, 2021, 2022 until May 16). Investors can apply for exemptions.
 
-The WISDOM SEA REEFER has been linked to human trafficking through its operational association with the BLISSFUL REEFER, which was exposed in the 2015 Associated Press coverage of labour abuses in the fisheries sector. In December 2017, the WISDOM SEA REEFER was renamed RENOWN REEFER and reflagged to the landlocked, ‘flag of convenience’ country Bolivia, behaviour often associated with vessels looking to avoid sanctions and oversight.
+Finally, the recall decision will be notified to all vessel owners and permits will disappear. Also, new conditions for snow crab permits will be communicated.
 
-Concern for the welfare of the largely Thai and Cambodian crew of the seven trawlers operating in Somali waters led to intervention by the Thai authorities, and apparent de-flagging by flag State Djibouti.
+The new conditions will take effect immediately so that the process of handling applications for new snow crab permits can begin.
 
-By May 2017, the seven trawlers had largely dispersed; four of the vessels were identified in the port of Suza, Iran. The CHOTCHAINAVEE 35 returned to Samut Sakhon, Thailand, on 6 May 2017 where it was subsequently detained and inspected, due to concern that the vessels were in violation of the national fisheries laws of the Federal Government of Somalia. Charges have now been made against several Thai individuals linked to the vessel through the direct and beneficial ownership companies.
+For the synergy between the fleets and the land-based industry
+Additionally, agreements between vessels with a new snow crab permit and the land-based industry will be encouraged. To this end, it has been decided that 10% of the total snow crab quota will be set aside for the delivery of live snow crab starting in 2025. Vessels will apply to harvest this raw material when collaborating with the industry.
 
-January 2018 saw the detention of a further two of the ‘Somali Seven’ by authorities in the Maldives. The CHOTPATTANA 51 and CHOTPATTANA 55, both thought to be stateless, had a total of 400 tons of fish and 22 Thai nationals on board.Wanted by Thai authorities, and monitored by INTERPOL, the vessels were linked through ownership and crew to other vessels from the Somali Seven fleet. Some members of the original CHOTPATTANA 55 crew had been interviewed by Thai officials on the CHOTCHAINAVEE 35 and reported that they had changed vessels to escape the living and working conditions they had experienced and to return home to Thailand.
+Regarding this measure, the Minister explained: "I am committed to stimulating more activity on land, and I will see if earmarking raw material can contribute. At the same time, we must ensure the profitability of the vessels, and it is necessary to make adjustments in line with new operating patterns."
 
-Per Erik Bergh of Stop Illegal Fishing commented, “It is very concerning to see that the strengthening of policy and enforcement in one region prompts operators, who are determined to violate human rights and fishing regulations, to seek out regions and countries where there is less control. Foreign fishing vessels continue to take advantage of the situation in Somalia, and as an international community, we must make every effort to stop this from happening.”
-
-FISH-i Africa continues to monitor the activity of the remaining ‘Somali Seven’ vessels and calls for support from all port States in ensuring that any labour abuses or human trafficking is identified and the crew are fully supported. Nicholas Ntheketha, Chair of FISH-i stated, “In the Western Indian Ocean we are very concerned to see the deliberate and illegal targeting of our fisheries by operators who clearly make no effort to respect our rules, regulations or laws. The use of trawl gear so close to the Somali coastline may have devastating impacts on the environment and also on the Somali people.”
+In April, the Norwegian snow crab fishery obtained Marine Stewardship Council certification due to stock status, ecosystem impact, and management practices.
 """,
 
 #### article 3
@@ -68,30 +59,57 @@ The KKP and UNODC will continue to work together to strengthen Indonesia’s cap
 
 ####article 4
 """
-A new study published today in Frontiers in Marine Science used the data gathered by the Sea Around Us project in a unique effort to reconstruct the fish catch at global scale, to reveal that in the past 60+ years, the practice of towing giant fishing nets along the sea floor has caused the extraction of 25 million tonnes of fish that live 400 metres or more below sea level, leading to the collapse of many fish populations in a “boom and bust” pattern of exploitation.
+A broken blood vessel in the eye—called subconjunctival hemorrhage—causes a red spot on the white part of your eye. It is a common problem that usually heals on its own in several days or weeks. Most of the time, you don't need medical attention for broken blood vessels in the eye unless they occur frequently.
 
-The new estimates suggest that 42 per cent more fish have been caught by countries than they reported to the Food and Agriculture Organization (FAO) of the United Nations. “Our study shows that there is systematic underreporting of the real catch. This means that fisheries managers are making decisions based on incorrect data, which has dramatic consequences for marine ecosystems,” said Lissette Victorero, lead author of the paper and a PhD student at the National Oceanography Centre in the United Kingdom.
+This article covers potential causes for a broken blood vessel in the eye, how long it takes to heal, and when to contact a healthcare provider.
+
+Causes of a Popped Blood Vessel in the Eye
+There are many potential causes of a broken blood vessel in the eye. It can result from irritation, like that from dirty contact lenses, injury, such as eye or head trauma, illness, or certain health conditions.1 If you notice a broken blood vessel in your eye and are unsure of the cause, consider the following possibilities.
+
+Irritation
+Irritation due to contact lenses is a common cause of broken blood vessels in the eye, especially among younger people. The following are some common causes of eye irritation:2
+
+Vigorously rubbing your eyes: Rubbing your eyes can put extra pressure on the eye, leading to a broken blood vessel.
+Dirty or old contact lenses: Substances can build up on contact lenses that could irritate the eye, leading to a popped blood vessel.
+Improper contact lens removal: Improperly removing contact lenses could lead to a popped blood vessel in the eye.
+Eye strain: Eye strain can result from reading or looking at a screen for a long time, which could cause a broken blood vessel in the eye.
+Injury
+An injury directly to the eye or a trauma to the head can result in a broken blood vessel. If you experience a head injury that results in broken bones, it's possible to develop a broken blood vessel in your eye. However, the symptoms may appear 12 to 24 hours following the injury. Common causes of injury include the following:2
+Tarlan B, Kiratli H. Subconjunctival hemorrhage: risk factors and potential indicators. Clin Ophthalmol. 2013;7:1163-70. doi:10.2147/OPTH.S35062.
 
 
-Orange roughy © Claire Nouvian / BLOOM
+Foreign object in your eye: It is possible for a foreign object in your eye—from a speck of sand to something bigger—to cause a popped blood vessel.
+Trauma to the eye or head: The pressure of direct head trauma can cause capillaries (tiny blood vessels) in your eyes to break.3
+Illness
+Illnesses, such as a viral infection, can cause symptoms that could lead to a broken blood vessel in the eye, including:2
 
-The study, which was published this week in Frontiers in Marine Science, examines the historical catch of 72 deep-sea fish species taken by bottom trawlers around the world, many of which are exploited to unsustainable levels and several of which are no longer commercially viable.
+Repeated powerful sneezing: Sneezing repeatedly causes a quick, brief rise in your blood pressure, putting added strain on your blood vessels and potentially leading to a popped blood vessel.3
+A hacking cough: A potential side effect of a hacking cough is a broken blood vessel due to the rise in blood pressure caused briefly by the coughing.3
+Vomiting: Vomiting puts extra strain on your head and eyes and can potentially cause a broken blood vessel.
+Health Conditions
+Certain health conditions are associated with an increased risk of broken blood vessels in the eye. These include:2
+Conjunctivochalasis: Conjunctivochalasis is a condition caused by aging that leads to loose conjunctiva (the membrane that covers the front surface of the eye and the inner surface of the eyelid). When it's severe, it can lead to a broken blood vessel, eye fatigue, dryness, and blurred vision.4
+Pinguecula: A pinguecula is a small, noncancerous tissue growth on the conjunctiva that can contribute to broken blood vessels in the eye.
+Diabetes: Diabetes can affect blood vessels throughout the body, including the eyes. Although uncommon, diabetes can lead to a popped eye vessel.
+High blood pressure: Although uncommon, the added strain on blood vessels due to high blood pressure can lead to a broken blood vessel in the eye.
+Blood-clotting disorders: Blood-clotting disorders can cause blood problems throughout the body. Although they are not a common cause of subconjunctival hemorrhage, they can sometimes be the reason that one occurs.1
+Other Causes
+Sometimes, you can break a blood vessel in your eye through standard tasks, like bending forward or straining on the toilet, as follows:
 
-For example, Roundnose grenadier estimated catches for the North Atlantic were greater than 60,000 tonnes in 2001, but the stock was overfished so fast that a moratorium had to be imposed in 2006. “One of the reasons behind this collapse is the fact that trawls are not selective: they catch everything and anything, which means that young grenadiers that have not yet reached full reproductive development are caught along with adult grenadiers, decreasing the ability of the population to recover,” said Deng Palomares, co-author of the study and the Sea Around Us Project Manager at the University of British Columbia.
+Increased pressure in the head and neck: Movements such as lifting, pushing, or bending forward can put extra pressure on the eyes, resulting in a broken blood vessel.5
+Recent eye surgery: Although the eyes are relatively small compared to the rest of the body, they have many different parts. If an eye surgeon performs surgery in one part of the eye, it can lead to a disrupted blood vessel elsewhere in the eye.5
+Medications: Although it may be a less common cause of a popped blood vessel in the eye, medications that can make you bleed more easily, such as aspirin or blood thinners, can lead to a broken blood vessel.1
+What to Do If You Have a Popped Blood Vessel in the Eye
+A popped blood vessel in the eye generally requires no treatment and should go away on its own. If it's causing irritation, you can use artificial tears for relief.3
 
-Prof. Les Watling, from the University of Hawaii in Mānoa, and an author of the study explained that most of the fisheries they analyzed followed a typical “boom and bust” cycle, lasting for less than a decade or two, because deep-sea fish generally have low fecundity, grow very slowly and are highly vulnerable to overexploitation. Deepwater fish also often live around seamounts and ridges that are often left bare of life when fished by deep-sea bottom trawls.
+How Long Does It Take a Burst Blood Vessel in the Eye to Go Away?
+It usually takes days to weeks for a burst blood vessel in the eye to go away without treatment.3 As the eye improves, the white part of the eye may start to look yellow.6
 
-Bottom trawling of deep fish depletes the stocks but does not generate much in the way of marketable fish. Immature individuals are thrown overboard because they generally don’t meet minimum size requirements, while non-targeted species caught as bycatch are also returned dead to the sea.
+When to Contact a Healthcare Provider
+Let a healthcare provider know if you frequently get a burst blood vessel in the eye that doesn't improve with time or if you are unsure of the cause. A healthcare provider will check your blood pressure and perform an eye exam. They may consider additional testing if an underlying medical cause is suspected, which is more common among older adults.7
 
-The new estimates presented by Victorero and her colleagues suggest that six million tonnes of fish were discarded over the study period while deep-sea fisheries only contributed 0.5 per cent of total fisheries landings. “This means that globally their economic importance is trivial,” the paper states.
-
-The need to keep the business going despite its financial unviability drives fleets to continuously look for public subsidies and new species to fish, particularly once they have fished out a stock or are subjected to new regulations. “So what we are seeing is a cycle in which trawlers start targeting fish that they were already dragging up as bycatch. They create new markets for them until they also exhaust that stock with regulations lagging behind,” the lead author explained.
-
-The impact of trawling goes beyond the capture of fish populations. As they are dragged on the seabed, trawls remove sponges, corals, sea stars, sea cucumbers, and anemones, all of which play important roles as food source or habitat for fish. They destroy seamount communities and other fish homes, turning former thriving habitats into large cleared areas.
-
-The massive under-reporting of catch “means that much more biomass of fish and habitat-forming species have been removed from the deep sea than we thought. This has altered the ecosystem in ways that we have yet to understand,” Palomares said.
-
-Claire Nouvian, co-author of the paper and founder of the marine conservation NGO BLOOM added that these results would have to be taken into consideration by politicians when setting the total allowable catch (TAC) and quotas for deep-sea species in the European Union in the winter 2018. “The new EU deep-sea fishing regulation that we fought so hard for and that establishes a ban on deep-sea bottom trawling below 800 meters came into force in January 2017, but because deep-sea quotas are decided every two years, 2018 is the first time that the TAC will be set according to the new rules”. There will be pressure on decision makers to ensure the quotas are set against fundamental principles of both the Common Fisheries Policy and the new deep-sea fishing Regulation (n°2016/2336), which clearly impose “the long-term conservation of deep-sea fish stocks”, the application of the precautionary approach to fisheries management and the restoration of harvested populations “above levels which can produce the maximum sustainable yield.”
+Summary
+A broken blood vessel in the eye (subconjunctival hemorrhage) has many potential causes, such as rubbing your eyes too hard, intense coughing or sneezing, eyestrain, eye surgery, or a viral infection. A broken blood vessel in the eye usually goes away on its own. If it occurs frequently, without an apparent cause, or you experience them often, see a healthcare provider.
 """,
 
 #### article 5
@@ -246,7 +264,7 @@ On 28 December 2017, the Court of First Instance ruled that three fishing vessel
           In addition, Thailand has implemented administrative sanctions alongside criminal proceedings. To date, the Administrative Sanction Committee has prosecuted 239 cases, including 66 cases of overseas fishing vessels, 103 cases of 30 GT-or-above Thai fishing vessels, and 67 cases of less-than-30 GT Thai fishing vessels. The penalties range from seizing the vessel, confiscating its fishing gear and aquatic animals, revoking its fishing license, and imposing fines which, so far, have totaled more than 43 million Baht (approximately over 1.1 million Euros).
           Thailand has recently introduced a new measure to speed up the trial process by setting up two new special panels of judges within the Criminal Court to solely handle illegal fishing cases, as announced in the Criminal Court’s order on 29 January 2018. These cases will be deemed extraordinary and the court will aim to conclude all cases within six months after the charge accepted. Regarding the request for temporary release of the accused or defendants, due consideration will also be given to the circumstances relating to the alleged offence; whether it involves criminal networks or organizations or influential figures; and the impact of the alleged offence on the aquatic animal resources and environment.  All these efforts reflect the Royal Thai Government’s endeavor to strengthen law enforcement to effectively prevent, deter and eliminate the illegal fishing, as intended in the Royal Ordinance on Fisheries.
 
-"""
+""",
 
 ####Article 12
 """
@@ -271,16 +289,200 @@ According to the illegal, unreported and unregulated fishing (IUU) Risk Intellig
 “Very little is known about the Chinese company, its ownership, management, movements and activities of the “Fu Yuan Yu” fleet in the high seas,” read a report by IUU Risk Intelligence from May 29, 2016.
 
 Meanwhile, HT found the Chinese company that owns the vessels did not have a website or a functional telephone number listed on international data portals with details of the vessels.
+""",
+### Article 13
+"""
+CAIRO (Reuters) -Two ships caught on fire after being hit by projectiles off Yemen's Aden, two UK maritime agencies reported on Sunday.
+
+The British security firm Ambrey said on Sunday an Antigua- and Barbuda-flagged general cargo ship was struck by a missile 83 nautical miles southeast of Aden and caught fire. The fire was later contained.
+
+Earlier, the United Kingdom Maritime Trade Operations (UKMTO) said it had received a report from a captain of a vessel of an incident 80 nautical miles southeast of Aden.
+
+"The ship was heading southwest along the Gulf of Aden at a speed of 8.2 knots when the forward station was struck by a missile. A fire started but was neutralised," Ambrey said in an advisory note.
+
+"A second missile was sighted but did not hit the ship. Persons on board small boats in the vicinity opened fire on the ship during the incident."
+
+Ambrey said the ship changed course to port and increased speed, adding that "no injuries were reported."
+
+Separately, Ambrey and UKMTO said they had received a report about another incident 70 nautical miles southwest of Aden.
+
+"The master reports that the vessel was hit by an unknown projectile on the aft section, which resulted in a fire. Damage control is underway," UKMTO said in advisory note.
+
+They added that no casualties were reported and the vessel was proceeding to its next port of call.
+
+The Houthi militia, which controls the most populous parts of Yemen and is aligned with Iran, has attacked ships off its coast for months, saying it is acting in solidarity with Palestinians fighting Israel in Gaza.
+
+Houthi fighters have launched drone and missile attacks in the Bab al-Mandab Strait and Gulf of Aden, forcing shippers since November to take longer and more costly journeys around southern Africa.
+
+The United States and Britain have carried out strikes against Houthi targets in response to the attacks.
+
+(Reporting by Muhammad Al Gebaly; Editing by Cynthia Osterman, Richard Chang and Kim Coghill)
+""",
+#### Article 14
+"""
+Waves have swept away vessels supporting the United States-built pier installed to transfer aid to Gaza, the US Central Command (CENTCOM) has said.
+
+In a statement on Saturday, CENTCOM noted that during the transportation of humanitarian aid, the US floating dock was disconnected from the small boat tugging it and the vessels broke free from their moorings with two of them now anchored on the beach near the pier.
+
+Part of the dock later drifted towards Israel’s Ashdod shore, while the third and fourth vessels have beached on the coast of Israel near Ashkelon, CENTCOM added.
+
+No injuries have been reported so far and efforts to recover the vessels are under way with assistance from the Israeli and US navies.
+
+Reporting from Washington DC, Al Jazeera’s Heidi Zhou-Castro said that the Pentagon has stressed that the pier still remained fully functional.
+
+“They [the Department of Defense] emphasised that throughout this operation, no US personnel will enter Gaza,” she added.
+
+The construction of the $320m floating pier was completed in mid-May to provide aid to the Gaza Strip.
+
+The pier has been criticised as a complicated and costly alternative that tries to deflect attention from demanding a much simpler solution – for Israel to fully open all land crossings to Gaza and to secure aid trucks going in.
+
+But in March, US President Joe Biden said in his State of the Union that the pier would “receive large shipments carrying food, water, medicine and temporary shelter”, a move largely seen as an attempt to appease his Democratic Party’s base as he runs for re-election in November.
+
+Meanwhile, on Friday, Stephane Dujarric, spokesperson of UN chief Antonio Guterres, said that the World Food Programme (WFP) has “taken possession of 97 trucks since the floating dock came into operation”.
+
+“After a rocky start, the situation is stabilised,” Dujarric said.
+
+“What we want to see, as we’ve been saying, is massive aid coming in through land routes,” he added.
+""",
+
+#### Article 15
+"""
+Humans catch about 95 million metric tons of fish every year, contributing to the trillion-dollar frenzy of the global fishing industry.
+
+Interestingly, some whale species have also found ways to profit from the fishing business.
+
+It's not the money they're after — but the fish that outwit even the fishermen.
+
+Whales discovered how to catch a free meal
+Sperm whales and northern bottlenose whales off the coast of Newfoundland were observed time and again trailing fishing trawlers to catch the fish that escaped fishermen's nets.
+
+But the whales didn't catch just any old fish. They were apparently picky eaters and only followed a vessel when it was fishing for Greenland halibut.
+
+None of the whales that scientists observed pursued a trawler while it was catching redfish, thorny skate, or any other fish other than Greenland halibut. Scientists published their results in the journal PLOS ONE in August.
+
+"The whales have learned to identify the fishing vessels as a source of easier fish to catch, reducing their time for foraging," lead researcher Usua Oyarbide told Insider.
+
+Oyarbide first observed this behavior in 2007 as part of her Master's thesis project. Then five to six years later, she said a fisherman sent her video of one of the same whales still chasing down fish.
+
+This study isn't the first to report whale and fishing boat encounters. Scientists have found similar behavior among at least 17 other whale species in different parts of the world dating as far back as 1997, Oyarbide said.
+
+"It is a behavior that has been reported more and more over the past 20 years or so, in a number of parts of the world." Hal Whitehead, a sperm whale expert and biology professor at Dalhousie University, told Insider. He wasn't involved in Oyarbide's study.
+
+What's even more interesting is that it's not only whales that have learned to catch fish escaping the fishermen's nets.
+
+"As time goes on we hear more and more reports of everything from sperm whales to dolphins doing this. Probably, almost every species of marine mammals that eats fish somehow take advantage every now and then of a free meal," said Andrew Trites, director of the Marine Mammal Research Institute at the University of British Columbia, who also wasn't involved in the study.
+
+Oyarbide further suggests that this behavior may become more common among whales in the future as whales learn socially from each other and can, therefore, pass tips and tricks onto the next generation, and so on.
+
+Is it good for whales to follow fishing boats? No.
+Oyarbide said this change in whale behavior may seem beneficial for them at first as it increases their access to prey and reduces foraging time.
+
+But it can also make them more dependent on fish vessels for food, influencing their survival and reproduction. The whales likely began trailing trawlers because the boats overlapped their foraging areas, Oyarbide said.
+
+Overfishing in such areas indirectly threatens the whales by decreasing the availability or altering the size or diversity of their prey. "It is important to understand fisheries' impacts in marine ecosystems," Oyarbide said.
+
+Another issue is the "habitat degradation caused by bottom trawlers can have an indirect, negative impact on marine mammals that depend on those habitats for food," she added.
+
+Instead of searching for food, some whales find it easier to catch prey just by following the trawlers. And that often leads to more risky interactions with vessels or fishing gear, Oyarbide said.
+
+"It is probably bad for the whales in the long run," Whitehead said. "They sometimes get rammed, or shot by angry fishers, and can get caught in the nets. We saw a sperm whale killed by a trawler net close to the area mentioned in the study. They may also lose skills at catching their real food."
+
+Fishing gear entanglement alone causes the death of 300,000 whales, dolphins, and other cetacean mammals every year, according to the International Whaling Commission. And a study published in January suggested this estimate was low.
+
+Moreover, a report from the National Oceanic and Atmospheric Administration suggests that females of the endangered North Atlantic right whale species are having fewer births because of stress and injuries from repeated fishing gear entanglements.
+
+Old observations can still teach something new
+Though Oyarbide is no longer researching whales and her observations in the study are many years old, Trites said her research is still helping the scientific community as it offers a glimpse at past whaling behavior in Canada that may be compared with data in other parts of the world like Africa, China, and Australia.
+
+"I learned something, which I didn't know before," Trites, who has been studying marine mammals for over 30 years added. "I've known about sperm whales being engaged with different fisheries but I wasn't aware northern Bottlenose whales show similar behavior, so I've learned something new."
+
+"The study tells us how whales can exploit new resources, also, occasionally with really good data, we may get a better understanding of how they learn the new behavior from one another," Whitehead told Insider.
+
+Oyarbide added that her coauthor is using the study's data to better understand bottlenose whale depredation in Canada that may be going underreported.
+""",
+### Article 16
+"""
+Fires were reported on two vessels off the coast of Yemen, after being hit by “projectiles”, the UK's Maritime Trade Operations said on Sunday.
+
+The first incident in the Red Sea took place at 8pm Co-ordinated Universal Time, 80 nautical miles south-east of Yemen's interim capital Aden, UKMTO said, after the ship's crew reported a projectile struck the vessel.
+
+“A small fire was contained in the mooring station and now reported extinguished. All crew are reported safe and the vessel is now proceeding to its next port call.”
+
+The Elbella is one of the vessels reportedly struck.
+
+British security firm Ambrey confirmed to Reuters that an Antigua-and Barbuda-flagged cargo ship was struck 83 nautical miles south-east of Aden and caught fire.
+
+“The ship was heading south-west along the Gulf of Aden at a speed of 8.2 knots when the forward station was struck by a missile. A fire started but was neutralised,” Ambrey said.
+
+“A second missile was sighted but did not hit the ship. Persons on board small boats in the vicinity opened fire on the ship during the incident.”
+
+A second incident was reported, 70 nautical miles south-west of Aden three hours after the initial strike. “The vessel was hit by an unknown projectile on the aft section, which resulted in a fire,” UKMTO said.
+
+“Damage control is under way.”
+
+There were no casualties in the attack.
+
+Houthi rebels have begun striking ships in the Red Sea and the Gulf of Aden since November, in support of Palestinians in Gaza, but have not claimed either attack.
+
+They have repeatedly said they will not stop carrying out strikes on maritime shipping until Israel stops its aggression in Gaza.
+
+The Iran-backed rebel group has been ramping up its activities in the Red Sea and a US-UK coalition has been hitting back, striking areas in Yemen which it claims are being used to fuel the sea attacks.
+
+Most recently, the Houthis blamed the western forces for carrying out air strikes on Hodeidah Airport and the Salif port to the north of the country.
+""",
+### Article 17
+"""
+RCMP say a man has died after he was injured aboard a fishing vessel in northeastern Prince Edward Island.
+
+Cpl. Gavin Moore says police received a report shortly before 9 a.m. about a man who was hurt on a fishing boat.
+
+Moore says the man died before the vessel made it to shore in North Lake, on the Island’s northeastern tip.
+
+He could not say when the vessel arrived, nor could he provide more information about the man or how he was injured.
+
+Moore says the Mounties are still investigating and police have reported the death to Transport Canada, occupational health and safety officials, and the coroner’s office.
+
+The Transportation Safety Board of Canada says commercial fishing is one of the most dangerous jobs in the country, with 10 people dying in five incidents involving commercial fishing boats in 2023.
+
+This report by The Canadian Press was first published June 19, 2024.
+""",
+### Article 18
+"""
+15th June 2024
+The Bluefin tuna season will open tomorrow with a 25-tonne quota with the Department of Environment reviewing a mechanism to regulate the commercial sale of locally caught tuna.
+
+The total allowable catch has remained the same as last year and the quota will be split in two parts.
+
+The first part of the quota has been set at 22 tonnes for the period June 16 to July 25 unless limit is reached beforehand in which case the season will be temporarily closed.
+
+The second part of the quota is set at three tonnes and the open season will recommence on August 6 to October 14, 2024.
+
+A Government spokesman told the Chronicle that regulation regarding the commercial sale of the
+prized fish “is still being reviewed by the Department of the Environment together with partner authorities”.
+
+As from Sunday, sports fisherman can catch a tuna a day during open season.
+
+Anglers are reminded that a Class K licence is required to fish for Bluefin tuna.
+
+A dedicated landing station has been set up within the North Mole (No. 1 Jetty).
+
+Anglers are reminded that all tuna and billfish catches must be reported and weighed at the landing point where vessels will be able to dock.
+
+Towing live specimens into the landing station is strictly prohibited and may result in licences being revoked.
+
+The landing point will be manned from 9am to 2.30pm from Monday to Saturday. Any catches landed from 2.30pm to sunset must also be reported and weighed at the landing point by contacting the on-call landing point staff on mobile number: 54020033.
+
+This service will also be operational on Sundays and public holidays.
 """
 ]
 
 
 
 irrelevant_urls = [ 
-    'https://www.abc.net.au/news/2016-12-30/tasmanian-fishing-identities-held-after-record-cocaine-bust/8154188',
-    'https://stopillegalfishing.com/news-articles/22-thai-crewmembers-await-repatriation-thai-owned-somali-seven-fishing-vessels/',
+    'https://www.msn.com/en-us/news/technology/dolphins-spotted-using-shipping-vessels-in-charleston-harbor-to-catch-prey/ar-AA1nIFpW',
+    'https://weareaquaculture.com/news/fisheries/limitations-on-the-snow-crab-catch-new-condition-for-norwegian-vessels',
     'https://www.unodc.org/roseap/en/indonesia/2024/02/fisheries-crime/story.html',
-    'https://www.bloomassociation.org/en/new-study-reveals-massive-under-reporting-of-deep-sea-fish-catch/',
+    'https://www.verywellhealth.com/what-causes-broken-blood-vessels-in-the-eye-8651771',
     'https://www.science.org/doi/10.1126/sciadv.aaz3801',
     'https://ejfoundation.org/news-media/new-rules-tighten-controls-on-eu-vessels-to-prevent-misreporting',
     'https://www.washington.edu/news/2016/09/27/missing-fish-catch-data-not-necessarily-a-problem-new-study-says/',
@@ -288,7 +490,13 @@ irrelevant_urls = [
     'https://tass.com/world/714426',
     'https://law-in-action.com/tag/illegal-fishing/',
     'https://budapest.thaiembassy.org/en/content/88299-thai-court-has-fined-three-overseas-fishing-vessels-for-over-130-million-baht-on-illegal-fishing-charges?cate=5f205f5b0b09246d9a00a7ce',
-    'https://www.hindustantimes.com/mumbai-news/in-troubled-waters-10-chinese-vessels-found-fishing-illegally-in-maharashtra/story-FigOPCnmT3o0xuSDeqFjvN.html'    
+    'https://www.hindustantimes.com/mumbai-news/in-troubled-waters-10-chinese-vessels-found-fishing-illegally-in-maharashtra/story-FigOPCnmT3o0xuSDeqFjvN.html',
+    'https://ca.news.yahoo.com/ambrey-says-cargo-ship-hit-230251216.html',
+    'https://www.aljazeera.com/news/2024/5/25/vessels-supporting-us-built-gaza-aid-pier-washes-away',
+    'https://www.businessinsider.in/science/news/whales-swimming-behind-fishing-vessels-catch-an-easy-feast-of-escaped-fish-but-experts-warn-this-free-meal-is-risky-potentially-lethal-behavior/articleshow/103327327.cms',
+    'https://www.thenationalnews.com/news/mena/2024/06/09/two-vessels-catch-fire-in-the-gulf-of-aden-after-unknown-projectiles-strike/',
+    'https://www.thestar.com/news/canada/man-dies-after-injury-aboard-fishing-vessel-in-northeastern-p-e-i-police-say/article_a05a82dd-02f9-53b5-a806-1680201928c6.html',
+    'https://www.chronicle.gi/bluefin-tuna-season-to-open-tomorrow-with-25t-quota/'
 ]
 
 

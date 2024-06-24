@@ -337,8 +337,116 @@ He suggested fines totalling no more than $80,000.
 Judge Callaghan said the offending was clandestine and difficult to discover and prosecute. "The protection of the resource and its proper management is a major factor as well."
 
 Lee was not at court for the sentencing. The Oyang 77 is at present fishing off Uruguay, South America. The Crown holds a bond in such cases.
-"""
+""",
 #### Article 13
+"""
+A Chinese commercial fishing company’s been banned from working in international waters for misreporting its bluefin tuna catch.
+
+Two vessels were fishing in water between Fiji and New Zealand last year when they were spotted by a joint Defence and Ministry for Primary Industries operation.
+
+The company has been deregistered and hit with an $825,000 fine by Chinese authorities for being unlicensed and misreporting 100 tonnes of southern bluefin tuna as the less valuable bigeye species.
+
+While bigeye are listed by WWF as a vulnerable species, bluefin tuna are considered endangered.
+
+It was the first time DNA samples of fish were taken from a ship and later tested.
+
+“The value of undertaking monitoring, control and surveillance activities on the high seas cannot be underestimated,” said MPI spokesman Gary Orr.
+
+“We have thanked the Chinese authorities for their comprehensive and thorough investigation.”
+
+New Zealand and China earlier this year agreed to work together on promoting sustainable fishing and cracking down on those who break the rules.
+
+“New Zealand will continue to work with China and others to combat Illegal, unreported and unregulated fishing in other regions,” said Mr Orr.
+
+MPI did not name the company, but both vessels are registered to Dalian Dayang Ocean Fishy Company.
+""",
+#### Article 14
+"""
+The owner and crew of a longtime Maine herring seine vessel face federal charges alleging they falsified landing reports and sold millions of pounds of unreported Atlantic herring.
+
+U.S. attorney Darcie N. McElwee in Portland, Maine, said Glenn Robbins, 75, of Eliot, owner of the seiner Western Sea; Ethan Chase, 44, of Portsmouth, N.H.; Neil Herrick, 46, of Rockland; Andrew Banow, 35, of Rockport; Stephen Little, 56, of Warren; Jason Parent, 49, of Owls Head; and vessel ownership corporation Western Sea, Inc., were named in a 35-count indictment returned by a grand jury Jan. 28.
+
+The indictments lists 35 charges of conspiracy, mail fraud, and obstruction of justice “in connection with a multi-year scheme to sell unreported Atlantic herring and falsify fishing records,” according to a statement from the U.S. attorney’s office.
+
+Prosecutors allege that Robbins working with his captains and crews sold more than 2.6 million pounds of Atlantic herring from about 80 fishing trips between June 2016 and September 2019 that were not reported to NMFS.
+
+Crew members were paid directly by fish dealers and lobster vessel operators for the unreported herring, the indictment alleges. The Portland Press Herald reported the indictment listed total value of those sales at over $460,000.
+
+“The type of unscrupulous and unlawful fishing alleged in the Indictment returned by the grand jury directly affects the economic benefit of law-abiding fishermen and fishing communities,” said James Landon, director of the NMFS Office of Law Enforcement, in a statement announcing the indictment. “We will continue to help bring to justice those who are proven to have violated U.S. fishing laws and regulations, to help ensure the sustainability of our living marine resources while also maximizing economic benefit.”
+
+Edward MacColl, a Portland lawyer representing Robbins, Chase and Western Sea Inc. said the fishermen cooperated fully with OLE investigators and believed they were in compliance.
+
+“The Western Sea worked with the government to facilitate its investigation, including by providing boxes of records to copy and access to the company’s computer,” MacColl told National Fisherman via email. “The firm intended to and believes it did comply with the government’s detailed reporting requirements.
+
+“At one point, government counsel agreed to meet with me and explain the government’s concerns; but the government changed its mind, refused to meet and apparently decided to issue an indictment and a press release instead.”
+
+Built in 1974, the Rockland, Maine-based 94-foot Western Sea is one of the most capable Gulf of Maine seine vessels and a dependable source of bait for the lobster fleet (‘The Baiting Game,’ National Fisherman November 2007).
+
+In October 2007 the NMFS Office of Law Enforcement accused Robbins and Danny Fill, captain of the Western Sea at the time, of failing to report 15 million pounds of herring landed from June 1 to late August of that year. The agency sought a combined $510,000 fine – $255,000 from each fisherman.
+
+Fill said he was late reporting his catch because he had lost a phone number for calling in landing reports, but had been updating his daily logbook and accurately recording trips.
+
+That case became one of dozens that drew complaints about OLE after the agency’s stormy relationship with the New England fishing industry culminated in a series of cases it brought against the Gloucester (Mass.) Seafood Display Auction (‘U.S. targets Gloucester auction,’ National Fisherman May 2009).
+
+An uproar from Gloucester and other ports led Massachusetts state lawmakers to call on Congress to investigate enforcement practices. The U.S. Department of Commerce appointed a special master, Charles B. Swartwood III, to review fishermen’s complaints.
+
+In his April 2012 report, Swartwood summarized his findings after reviewing about 72 cases. One was the Western Sea.
+
+Swartwood related how OLE agents explained that late reporting of landings can be as damaging to a fishery as non-reporting. While reports had not been called in that summer, Fill had maintained the daily logbook and shared those numbers with the agents, Swartwood wrote.
+
+With a correct phone number, Fill began calling in during August 2007 to report the season’s landings so far and subsequent trips.
+
+“In short, Mr. Fill actively tried to comply with the requirements after he was notified of the late filings,” Swartwood wrote. Nevertheless, NMFS officials called for a “severe penalty assessment,” he noted.
+
+The agency finally offered a $51,000 settlement, and by the time of Swartwood’s review Fill had paid $26,000. Swartwood recommended that amount should suffice.
+
+“A $510,000 penalty assessment is wholly inconsistent with fundamental fairness and common sense,” Swartwood wrote of the original violation. “This case should have been focused more on compliance rather than punishment.”
+
+Swartwood reommended the Department of Commerce “accept his prior payment of $26,000 in full satisfaction of the settlement of this case.”
+""",
+### Article 15
+"""
+Fishing company fined $36,000 for misreporting catch
+
+A Tauranga fishing company was fined $36,000 yesterday (29 April) after being convicted of three charges of misreporting catch involving 5.1 tonnes of snapper and gurnard.
+
+RMD Marine Limited pleaded guilty to the charges of making misleading statements in its Monthly Harvest Returns, before Judge Harding in the Tauranga District Court
+
+The charges related to fishing returns filed in October, November and December 2005.
+
+Senior Fisheries Prosecutor Morgan Dunn told the Court that the Ministry of Fisheries accepted that there was no intent by the company to defraud the Quota Management System (QMS) and that it was a case of sloppy record keeping,
+
+Judge Harding said that the fine effectively removed any profit from the offending and was a clear indication from the Court, even if the offending was accidental to start with.
+
+Ministry of Fisheries Investigation Manager Mark Nicholson said outside Court that filing misleading returns undermines the QMS, which is the key to sustainably managing our fisheries.
+
+Mr Nicholson said the QMS is based on setting annual catch limits for each fish species and rigorously monitoring how much fish is being caught against these limits.
+
+“The system relies on fishers accurately and honestly reporting their catch to MFish every month.”
+
+“Sloppy, slow or inaccurate reporting by fishers all threaten the sustainability of New Zealand’s fish stocks, as fisheries managers are left making decisions with flawed information. The Court is clearly indicating that such practices will not be tolerated.
+
+“These fisheries belong to all New Zealanders, and protecting their sustainability is something MFish takes very seriously.”
+""",
+#### Article 16
+"""
+Safeguarding walleye stocks in remote locations is critical by ensuring anglers do not exceed their fish possession limits, said the Ontario government.
+
+A group of six men from Eastern Ontario have been fined a total of $5,510 for hunting and fishing related offences.
+
+Mathew Turner of Plainville, Robert Patrick of Roslin, Dennis Christie of Trenton and Keith Turk of Gananoque pleaded guilty to possession of fish over the legal limit and were each fined $835.
+
+James Turner of Frankford pleaded guilty to possession of fish over the legal limit and failing to wear proper hunter orange while hunting. He was fined a total of $1,135.
+
+George Sweanor of Trenton pleaded guilty to possession of fish over the legal limit and failing to carry his licence while hunting. He was fined a total of $1,035.
+
+The court heard that on Sept.22, 2023, Cochrane conservation officers were conducting aerial enforcement north of Cochrane and landed for inspection at a fly-in moose camp on Natogami Lake. The officers found the group of six in possession of 47 walleye, 25 walleye over their legal limit. The overlimit of walleye was subsequently seized.
+
+Justice of the Peace Jean-Marie Blier heard the case remotely in the Ontario Court of Justice, Cochrane, on March 5.
+
+To report a natural resource problem or provide information about an unsolved case, members of the public can call the ministry TIPS line toll free at 1-877-847-7667. You can also call Crime Stoppers anonymously at 1-800-222-TIPS.
+"""
+
 ]
 
 relevant_urls = [
@@ -353,7 +461,11 @@ relevant_urls = [
     'http://www.maritime-executive.com/article/spanish-long-liner-detained-over-shark-fishing',
     'https://news.cision.com/sea-shepherd-global/r/massive-spanish-shark-finning-operation-uncovered-in-sao-tome-and-principe,c2369004',
     'https://www.seashepherdglobal.org/latest-news/toothfish-poacher-arrest/',
-    'https://www.stuff.co.nz/the-press/10456332/Captain-fined-120K-for-dumping-fish'
+    'https://www.stuff.co.nz/the-press/10456332/Captain-fined-120K-for-dumping-fish',
+    'https://www.iuuwatch.eu/2017/06/chinese-fishing-company-fined-825k-misreported-catch/',
+    'https://www.nationalfisherman.com/northeast/owner-and-crew-of-maine-herring-seiner-charged-with-misreporting-landings',
+    'https://www.scoop.co.nz/stories/PO0804/S00463.htm',
+    'https://www.pembrokeobserver.com/news/anglers-fined-5510-for-possessing-fish-over-legal-limit'
 ]
 
 print("there are", len(relevant_articles), "articles in relevant_articles.")
